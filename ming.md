@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"><h3>人生莫测 多少迷蒙 真相明心 缘到福成</h3></div>
-
+<hr>
 <div align=center>
 <img src="images/142500.jpg" width=880>
 </div>
