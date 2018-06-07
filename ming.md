@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="images/140709.jpg" width=680>
+<img src="images/140709.jpg" width=580>
 </div>
 
 <div align="center"><h3>人生莫测 多少迷蒙 真相明心 缘到福成</h3></div>
@@ -9,7 +9,7 @@
 <div align="center"><h3>感恩之心化飞鸿 大法弟子敬谢师尊指引生命归航</h3></div>
 
 <div align=center>
-<img src="images/a2018-5-10-9.jpg" width=880>
+<img src="images/a2018-5-10-9.jpg" width=580>
 </div>
 <p></p>
 
@@ -37,18 +37,18 @@
 
 
 <div align=center>
-<img src="images/2018-5-10-4.jpg" width=880>
+<img src="images/2018-5-10-4.jpg" width=580>
 </div>
 <p></p>
 
 
 <div align=center>
-<img src="images/2018-5-11-1.jpg" width=880>
+<img src="images/2018-5-11-1.jpg" width=580>
 </div>
 <p></p>
 
 <div align=center>
-<img src="images/a2018-5-9-2.jpg" width=880>
+<img src="images/a2018-5-9-2.jpg" width=580>
 </div>
 <p></p>
 
