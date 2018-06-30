@@ -1,3 +1,3 @@
 <div align=center>
-<img src="images/ok.jpg" width=780>
+<img src="images/ok.jpg" width=880>
 </div>
