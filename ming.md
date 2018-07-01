@@ -1,3 +1,8 @@
+
+
+
+<hr>
+
 <div align="center"><h3>聆聽神韻交響樂團演奏《大汗》之隨想 跟著大汗的戰馬馳騁草原</h3></div>
  <div align="center"><h4>by 王金丁 2017.11.08 </h4></div>
 <div align=center>
@@ -31,7 +36,7 @@
 
 <p></p>
 
-
+轉載(新紀元周刊)
 
 
 
