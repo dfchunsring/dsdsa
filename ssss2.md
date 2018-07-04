@@ -50,9 +50,16 @@
 <div>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
 
 <div align=center>
-<img src="images/1310281753432120.jpg" width=680>
+<img src="images/2013-6-5-zifen-2.jpg" width=680>
 </div>
+<div align=center>警察晃着灭火毯等镜头，棉衣裤子烧烂，头发还完好，火烧后盛着汽油的塑料瓶完好翠绿。央视女记者承认自焚“摆拍”。</div>
+
  <p></p>
+ 
+ <div align=center>
+<img src="images/1310292039482120.jpg" width=680>
+</div>
+ 
 <div align=center>
 <img src="images/zifengif-lcl.gif" width=680>
 </div>
