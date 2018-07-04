@@ -34,17 +34,17 @@
 <img src="images/1407101314002639-600x400.jpg" width=680>
 </div>
 <div>2002年1月，北美中文电视台“新唐人”制作了揭露“天安门自焚”真相的影片《伪火》（False Fire），该片从各国参赛的600多部影片中脱颖而出，于2003年11月8日获得第51届哥伦布国际电影电视节荣誉奖，该纪录片揭开了“自焚案”部分漏洞。（大纪元资料室）</div>
-
+ <p></p>
 <div align=center>
 <img src="images/1110302221042214-600x400.jpg" width=680>
 </div>
 <div>中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。（视频截图）</div>
-
+ <p></p>
 <div align=center>
 <img src="images/1310281753432120.jpg" width=680>
 </div>
 <div>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
-
+ <p></p>
 <div align=center>
 <img src="images/2005-1-31-cctv-liu-chunling.gif" width=680>
 </div>
