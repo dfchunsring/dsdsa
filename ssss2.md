@@ -32,6 +32,8 @@
 <div align=center>
 <img src="images/maxresdefault (2).jpg" width=880>
 </div>
+ <p></p>
+
 <div align=center>
 <img src="images/1407101314002639-600x400.jpg" width=680>
 </div>
@@ -40,16 +42,24 @@
 <div align=center>
 <img src="images/1110302221042214-600x400.jpg" width=680>
 </div>
-<div>中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。（视频截图）</div>
+<div align=center>中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。（视频截图）</div>
  <p></p>
 <div align=center>
 <img src="images/1310281753432120.jpg" width=680>
 </div>
 <div>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
+
+<div align=center>
+<img src="images/1310281753432120.jpg" width=680>
+</div>
  <p></p>
 <div align=center>
 <img src="images/zifengif-lcl.gif" width=680>
 </div>
+
+
+
+
 
 央视等官媒反复播出的自焚现场、自焚者惨不忍睹的颜容和他们凄惨的声音，强烈地冲击了人们的视觉，一时间让很多人对法轮功心怀恐惧。随着真相的慢慢揭开，并在法轮功学员长期广泛的传播真相活动中，人们从中共自编自演的这一场惨案看清了中共的残暴本质，也有很多人在明白真相后声明退出中共的党、团、队组织，抛弃中共。
 
