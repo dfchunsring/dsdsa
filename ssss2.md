@@ -59,11 +59,12 @@
  <div align=center>
 <img src="images/1310292039482120.jpg" width=680>
 </div>
- 
+ 图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。
+  <p></p>
 <div align=center>
 <img src="images/zifengif-lcl.gif" width=680>
 </div>
-
+ <div align=center>让录像说话：自焚者刘春玲是被警察用灭火器打死的</div>
 
 
 
