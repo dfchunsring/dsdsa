@@ -2,9 +2,7 @@
 <img src="images/ok.jpg" width=880>
 </div>
 <hr>
-<div align=center>
-<img src="images/maxresdefault (2).jpg" width=880>
-</div>
+
 
 <table>
   <tr>
@@ -31,6 +29,9 @@
   </tr>
   </table>
 
+<div align=center>
+<img src="images/maxresdefault (2).jpg" width=880>
+</div>
 <div align=center>
 <img src="images/1407101314002639-600x400.jpg" width=680>
 </div>
