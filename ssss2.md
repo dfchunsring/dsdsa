@@ -34,9 +34,6 @@
 <img src="images/maxresdefault (2).jpg" width=880>
 </div>
  <p></p>
- 
-
-
          
 <div align=center>
 <img src="images/1407101314002639-600x400.jpg" width=680>
@@ -70,6 +67,12 @@
  <div align=center>
 <img src="images/1310292039482120.jpg" width=680>
 </div>
+ <div align=center>澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</div>
+  <p></p>
+ 
+ <div align=center>
+<img src="images/1310292039482120.jpg" width=680>
+</div>
  <div align=center>图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。</div>
   <p></p>
 <div align=center>
@@ -80,9 +83,7 @@
 
  <h2 align="center">
 法轮功明确指出：炼功人不能杀生，自杀有罪
-</h2>
-  <br>
-           
+</h2>         
 ■ 法轮修炼大法是由李洪志先生创编的佛家上乘修炼大法。在李洪志大师的著作《转法轮》中明确指出：“炼功人不能杀生”，李洪志先生还在 《悉尼法会讲法》中指出：“自杀是有罪的。” 真正的法轮功学员不会去自焚。 
 
 
