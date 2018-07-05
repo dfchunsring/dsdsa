@@ -65,7 +65,7 @@
  <p></p>
  
  <div align=center>
-<img src="images/1310292039482120.jpg" width=680>
+<img src="images/2003-8-19-zifen_spot.jpg" width=680>
 </div>
  <div align=center>澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</div>
   <p></p>
