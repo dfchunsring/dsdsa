@@ -35,8 +35,9 @@
 </div>
  <p></p>
  
- <div align=center>
-<a href="https://>法轮功明确指出：炼功人不能杀生，自杀有罪</a> </div>
+ <h2 align="center">
+<a href="https://>法轮功明确指出：炼功人不能杀生，自杀有罪</a> </h2>
+         
 <table>
   <tr>
    <td>         
