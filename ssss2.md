@@ -49,7 +49,7 @@
 <div align=center>
 <img src="images/1110302221042214-600x400.jpg" width=680>
 </div>
-<div align=center>中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。（视频截图）</div>
+<div align=center>12岁的小姑娘刘思影全身烧伤面积达40%，头、面部四度烧伤，双眼睑外翻，呼吸困难，颜面、双手基本毁损。然而，身受如此重伤的刘思影却仍然能在新华社的报导里与记者对白。中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。气管切开手术后，人是绝不可能在这么短时间里恢复讲话能力的。（视频截图）</div>
  <p></p>
 
 <div align=center>
@@ -86,7 +86,7 @@
  <div align=center>让录像说话：自焚者刘春玲是被警察用重物击打致死的</div>
  <p></p>
 
-<h2 align=center>“天安门自焚”真相.mp4下載</h2>
+<h2 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">“天安门自焚”真相.mp4下載</a></h2>
 
 <hr>
  <h2 align="center">
