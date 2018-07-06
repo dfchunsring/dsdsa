@@ -53,6 +53,11 @@
  <p></p>
 
 <div align=center>
+<img src="images/n3613031_3.jpg" width=680>
+</div>
+ <p></p>
+
+<div align=center>
 <img src="images/1310281753432120.jpg" width=680>
 </div>
 <div align=center>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
@@ -79,6 +84,9 @@
 <img src="images/zifengif-lcl.gif" width=680>
 </div>
  <div align=center>让录像说话：自焚者刘春玲是被警察用重物击打致死的</div>
+ <p></p>
+
+<h2 align=center>“天安门自焚”真相.mp4下載</h2>
 
 <hr>
  <h2 align="center">
