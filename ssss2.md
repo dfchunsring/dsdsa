@@ -57,28 +57,31 @@
 </div>
  <p></p>
  
+<h2 align=center> <a href="https://git.io/ykkk"> ■ 气管切开还能唱歌 明显违反医学常识</h2>
 <div align=center>
 <img src="images/1110302221042214-600x400.jpg" width=680>
 </div>
-<div align=center>12岁的小姑娘刘思影全身烧伤面积达40%，头、面部四度烧伤，双眼睑外翻，呼吸困难，颜面、双手基本毁损。然而，身受如此重伤的刘思影却仍然能在新华社的报导里与记者对白。中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。气管切开手术后，人是绝不可能在这么短时间里恢复讲话能力的。（视频截图）</div>
+<div align=center>12岁的小姑娘刘思影全身烧伤面积达40%，头、面部四度烧伤，双眼睑外翻，呼吸困难，颜面、双手基本毁损。然而，身受如此重伤的刘思影却仍然能在新华社的报导里与记者对白。中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。明显违反医学常识。气管切开手术后，人是绝不可能在这么短时间里恢复讲话能力的。大面积烧伤病人，她的创面，要尽量的暴露，因为裹得太严实了，护士换药、清创非常的麻烦而且很容易造成创面的化脓感染。（视频截图）</div>
  <p></p>
 
 <div align=center>
 <img src="images/n3613031_3.jpg" width=680>
 </div>
  <p></p>
-
-<div align=center>
-<img src="images/1310281753432120.jpg" width=680>
-</div>
-<div align=center>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
- <p></p>
+ 
+ <h2 align=center> <a href="https://git.io/ykkk"> ■ 人被严重烧伤了 雪碧瓶却完好无损</h2>
 <div align=center>
 <img src="images/2013-6-5-zifen-2.jpg" width=680>
 </div>
 <div align=center>警察晃着灭火毯等镜头，棉衣裤子烧烂，头发还完好，火烧后盛着汽油的塑料瓶完好翠绿。央视女记者承认自焚“摆拍”。</div>
-
+<p></p>
+ 
+ <div align=center>
+<img src="images/1310281753432120.jpg" width=680>
+</div>
+<div align=center>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
  <p></p>
+ 
  
  <div align=center>
 <img src="images/2003-8-19-zifen_spot.jpg" width=680>
