@@ -17,7 +17,7 @@
       <p></p>
   
   <div align=center>
-<img src="images/1-728.jpg","images/1-728-2.jpg" width=480>
+<img src="images/1-728.jpg" width=280>
 </div>
   
  
