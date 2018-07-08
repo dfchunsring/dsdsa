@@ -17,7 +17,7 @@
       <p></p>
      
   <div align=center>
-<img src="images/1.jpg" width=480>
+<img src="images/maxresdefault .jpg" width=880>
 </div>
  ◆   <b>为什么自焚者王进东面容烧毁，头发和装满汽油的塑料瓶却完好无损？</b><br>
  ◆  <b>大量警察和急救车是如何在短短几分钟内赶到现场的？</b><br> 
