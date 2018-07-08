@@ -69,7 +69,7 @@
 </div>
  <p></p>
  
- <h2 align=center> <a href="https://git.io/ykkk"> ■ 人被严重烧伤了 雪碧瓶却完好无损</h2>
+ <h2 align=center> <a href="https://git.io/ykkk"> ■ 衣服烧烂，头发却耐火？人被严重烧伤了 雪碧瓶却完好无损</h2>
 <div align=center>
 <img src="images/2013-6-5-zifen-2.jpg" width=680>
 </div>
@@ -82,23 +82,40 @@
 <div align=center>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
  <p></p>
  
- 
+ <h2 align=center> <a href="https://git.io/ykkk">天安门警察背着灭火器巡逻？</h2>
  <div align=center>
 <img src="images/2003-8-19-zifen_spot.jpg" width=680>
 </div>
  <div align=center>澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</div>
   <p></p>
  
+  <h2 align=center> <a href="https://git.io/ykkk">谁是画面外的摄影师？</h2>
  <div align=center>
 <img src="images/1310292039482120.jpg" width=680>
 </div>
  <div align=center>图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。</div>
   <p></p>
+  
+ <h2 align=center> <a href="https://git.io/ykkk"> 女主角被当场灭口？</h2>
 <div align=center>
 <img src="images/zifengif-lcl.gif" width=680>
 </div>
  <div align=center>让录像说话：自焚者刘春玲是被警察用重物击打致死的</div>
  <p></p>
+
+ <h2 align=center> <a href="https://git.io/ykkk"> 自焚的王进东是法轮功学员吗？</h2>
+<div align=center>
+<img src="images/zifen-en.jpg" width=680>
+</div>
+ <div align=center>自称“老学员”的王进东竟然不会双盘腿。</div>
+ <p></p>
+
+<div align=center>
+<img src="images/jieyin-3.jpg" width=680>
+</div>
+ <div align=center>王进东的大拇指不是法轮功的正确动作——指尖轻轻接触，而是错误的上下重叠。</div>
+ <p></p>
+
 
 <h2 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">“天安门自焚”真相.mp4下載</a></h2>
 
