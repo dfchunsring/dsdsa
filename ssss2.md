@@ -222,7 +222,7 @@
 
 <hr>
 <div align=center>
-<img src="images/1400zx.jpg" width=680>
+<img src="images/508.jpg" width=680>
 </div>
 
 “1400例”，是指1999年7月中共江泽民集团为诬陷法轮功而抛出的1400个弥天大谎的案例。
