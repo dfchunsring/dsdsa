@@ -58,7 +58,7 @@
 </div>
  <p></p>
  
-<h2 align=center> <a href="https://git.io/ykkk"> ■ 气管切开还能唱歌 明显违反医学常识</h2>
+<h2 align=center> <a href="https://git.io/ykkk"> ■ 气管切开还能唱歌 明显违反医学常识</a></h2>
 <div align=center>
 <img src="images/1110302221042214-600x400.jpg" width=680>
 </div>
@@ -70,7 +70,7 @@
 </div>
  <p></p>
  
- <h2 align=center> <a href="https://git.io/ykkk"> ■ 衣服烧烂，头发却耐火？人被严重烧伤了 雪碧瓶却完好无损</h2>
+ <h2 align=center> <a href="https://git.io/ykkk"> ■ 衣服烧烂，头发却耐火？人被严重烧伤了 雪碧瓶却完好无损</a></h2>
 <div align=center>
 <img src="images/2013-6-5-zifen-2.jpg" width=680>
 </div>
@@ -83,28 +83,28 @@
 <div align=center>天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
  <p></p>
  
- <h2 align=center> <a href="https://git.io/ykkk">天安门警察背着灭火器巡逻？</h2>
+  <h2 align=center> <a href="https://git.io/ykkk">■ 天安门警察背着灭火器巡逻？</a></h2>
  <div align=center>
 <img src="images/2003-8-19-zifen_spot.jpg" width=680>
 </div>
  <div align=center>澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</div>
   <p></p>
  
-  <h2 align=center> <a href="https://git.io/ykkk">谁是画面外的摄影师？</h2>
+  <h2 align=center> <a href="https://git.io/ykkk">■ 谁是画面外的摄影师？</a></h2>
  <div align=center>
 <img src="images/1310292039482120.jpg" width=680>
 </div>
  <div align=center>图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。</div>
   <p></p>
   
- <h2 align=center> <a href="https://git.io/ykkk"> 女主角被当场灭口？</h2>
+ <h2 align=center> <a href="https://git.io/ykkk"> ■ 女主角被当场灭口？</a></h2>
 <div align=center>
 <img src="images/zifengif-lcl.gif" width=680>
 </div>
- <div align=center>让录像说话：自焚者刘春玲是被警察用重物击打致死的</div>
+ <div align=center>让录像说话：假冒法轮功学员自焚的刘春铃被不明人士当场灭口</div>
  <p></p>
 
- <h2 align=center> <a href="https://git.io/ykkk"> 自焚的王进东是法轮功学员吗？</h2>
+ <h2 align=center> <a href="https://git.io/ykkk"> ■ 自焚的王进东是法轮功学员吗？</a></h2>
 <div align=center>
 <img src="images/zifen-en.jpg" width=680>
 </div>
@@ -225,7 +225,7 @@
 <img src="images/1400zx.jpg" width=680>
 </div>
 
-“1400例”，是指1999年7月中共江泽民集团为诬陷法轮功而抛出的1400个弥天大谎的案例。<br>
+“1400例”，是指1999年7月中共江泽民集团为诬陷法轮功而抛出的1400个弥天大谎的案例。
 一九九九年七月二十日，中共江泽民集团发动了对法轮功的迫害。如同中共历次政治运动一样，这场迫害也是以铺天盖地的谎言宣传开道，所谓的“1400例”就是谎言宣传的一部份。
 
 中共罗织的“1400例”杀人、自杀、死亡的案例中，有的案例是把精神病患者病发时的意外事故栽赃为法轮功学员所为，有的案例是以减刑为条件唆使杀人者冒充法轮功学员，有的案例是以报销医药费为诱饵让危重病人冒充法轮功学员，还有的案例是把普通人的正常病逝说成是炼法轮功造成的。所有这些案例都是中共对法轮功的栽赃嫁祸。
@@ -246,7 +246,7 @@
 </div>
 
 
-<h2 align=center><a href="https://git.io/waaa">那么，这“1400例”到底是怎么回事呢？以下列举一些典型案例，看看中共是如何编造假新闻，栽赃诬陷法轮功的。</a></h2>
+<h3 align=center><a href="https://git.io/waaa">那么，这“1400例”到底是怎么回事呢？<br>以下列举一些典型案例，看看中共是如何编造假新闻，栽赃诬陷法轮功的。</a></h3>
 
 
 
