@@ -341,7 +341,7 @@
  <td>
  <h3 align=center><a href="https://git.io/tr"> 四•二五上访现场：和平理性的典范</a></h3>
    
-    ► 上访群众都在街道一边，静静站立。</tr></td> 
+  ► 上访群众都在街道一边，静静站立。</tr></td> 
    <tr>
  <td>  
 ► 和平、理性的上访人群，上访学员秩序井然 </tr></td> 
@@ -442,7 +442,7 @@
  <td> <div align=center>
 <img src="images/mhradio-header.jpg" width=680>
 </div></td>
- <td>请收听 1999年4月25日万名法轮功学员上访.mp3</td>
+ <td>请收听 1999年4月25日万名法轮功学员上访 .mp3</td>
 
 </tr>
 </table>
