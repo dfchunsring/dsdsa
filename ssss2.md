@@ -117,7 +117,16 @@
  <div align=center>王进东的大拇指不是法轮功的正确动作——指尖轻轻接触，而是错误的上下重叠。</div>
  <p></p>
 
+ <table>
+  <tr>
+ <td> <div align=center>
+<img src="images/96ec4d.jpg" width=680>
+</div></td>
+ <td><h2 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">“天安门自焚”真相.mp4下載</a></h2>
+</td>
 
+</tr>
+</table>
 <h2 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">“天安门自焚”真相.mp4下載</a></h2>
 
 <hr>
