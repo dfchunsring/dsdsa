@@ -120,14 +120,14 @@
  <table>
   <tr>
  <td> <div align=center>
-<img src="images/96ec4d.jpg" width=680>
+<img src="images/96ec4d.jpg" width=280>
 </div></td>
  <td><h2 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">“天安门自焚”真相.mp4下載</a></h2>
 </td>
 
 </tr>
 </table>
-<h2 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/OwQA4tZUShUeb.mp4?raw=true">“天安门自焚”真相.mp4下載</a></h2>
+
 
 <hr>
  <h2 align="center">
