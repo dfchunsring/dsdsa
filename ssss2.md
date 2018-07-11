@@ -466,7 +466,14 @@
 </div>
 <hr>
 
-<h4 align=center><a href="https://git.io/tr">中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播<br>无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h4>
+ <table>
+  <tr>
+ <td>
+<h4 align=center><a href="https://git.io/tr">中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h4>
+</td>
+ </tr>
+</table>
+
 
 <h3 align=center><a href="https://git.io/tr">大批民众按手印　挺身声援反迫害</a></h3>
 
@@ -510,7 +517,7 @@
  <td> <div align=center>
 <img src="images/1-166-560x400-560x400.jpg" width=200>
 </div></td>
- <td><h4><a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub <br>正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。</a></h4></td>
+ <td><h4><a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub<p></p>{ 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</a></h4></td>
  
 </tr>
 </table>
