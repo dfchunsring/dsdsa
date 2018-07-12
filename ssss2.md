@@ -540,7 +540,16 @@
  <table>
   <tr>
  <td>
-<h3 align=center><a href="https://git.io/tr">▬ 中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h3>
+<h3 align=center><a href="https://git.io/tr">▬ 中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h3></td>
+ </tr>
+
+<tr>
+<td><div align=center>
+<img src="images/2018-07-12_234725.jpg" width=680>
+</div></td>
+	
+ <td>
+ 一个曾经恶毒毁谤过大法的人含泪写下这篇文字<a href='https://github.com/sodore/dsdsa/blob/master/video/goodr2-s.mp4?raw=true'>一个佛教徒深深的忏悔 .mp4 下载 </a></h4>
 </td>
  </tr>
 </table>
@@ -595,6 +604,7 @@
 </div></td>
  <td><h4><a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub<p></p>{ 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</a></p>
 <a href='https://github.com/sodore/dsdsa/blob/master/epub/hgty48.epub?raw=true'>请下载【 让法官傻眼的办证词 】.epub </a></h4>
+
 </td>
  
 </tr>
