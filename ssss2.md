@@ -349,11 +349,11 @@
 <img src="images/imgc17e5a51ab50.jpg" width=680>
 </div>
 
+<h3 align=center><a href="https://git.io/tr"> 四•二五上访现场：和平理性的典范</a></h3>
+
 <table>
   <tr>
- <td>
- <h3 align=center><a href="https://git.io/tr"> 四•二五上访现场：和平理性的典范</a></h3>
-   
+ <td>  
   ► 上访群众都在街道一边，静静站立。</tr></td> 
    <tr>
  <td>  
@@ -544,6 +544,11 @@
 <img src="images/2012-6-20-cmh-mainland-signature-01.jpg" width=680>
 </div>
 <div align=center>黑龙江省有超过一万五千民众为素不相识的法轮功学员挺身而出，在替父鸣冤的秦荣倩的《喊冤昭雪书》上签名并按上大红手印</div>
+</p>
+ <div align=center>
+<img src="images/2018-05-20_112748.jpg" width=680>
+</div>
+
 <hr>
 
  <table>
