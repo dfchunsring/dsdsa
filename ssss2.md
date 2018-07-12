@@ -265,13 +265,13 @@
 
 <h3 align=center><a href="https://git.io/waaa">“1400例”栽赃术之一：利用精神病人栽赃</a></h3>
 李洪志先生从一九九二年传法开始就明确指出，精神病人不能修炼法轮功。在一九九六年的《悉尼法会讲法》中又指出：“精神病人，他自己意识是不清的，我们是不能度的。”而且法轮功教人向善，明确禁止杀生和自杀。“1400例”中有许多是精神病患者而决非法轮功学员。中共江泽民集团搜罗了许多精神病患者病发时杀人或自杀的意外事故，栽赃嫁祸于法轮功。</p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 
 <hr>
 <h3 align=center><a href="https://git.io/waaa">“1400例”栽赃术之二：唆使杀人犯栽赃</a></h3>
 中共江氏集团迫害法轮功，是作为政治任务下达到全国各级官员的。许多地方不法官员为了邀功请赏，编造假新闻栽赃法轮功，公安人员以减免刑罚为条件，唆使杀人犯谎称自己是炼法轮功的，栽赃法轮功。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <hr>
 
 <h3 align=center><a href="https://git.io/waaa">“1400例”栽赃术之三：收买危重病人栽赃</a></h3>
@@ -490,7 +490,7 @@
 <img src="images/2018-4-23-mh-newyork-425-parade-10--ss.jpg" width=680>
 </div>
 
-
+<p></p>
  <table>
   <tr>
  <td>
@@ -540,7 +540,7 @@
  <table>
   <tr>
  <td>
-<h4 align=center><a href="https://git.io/tr">▬ 中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h4>
+<h3 align=center><a href="https://git.io/tr">▬ 中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h3>
 </td>
  </tr>
 </table>
@@ -591,9 +591,11 @@
   <table>
   <tr>
  <td> <div align=center>
-<img src="images/1-166-560x400-560x400.jpg" width=300>
+<img src="images/1-166-560x400-560x400.jpg" width=380>
 </div></td>
- <td><h4><a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub<p></p>{ 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</a></h4></td>
+ <td><h4><a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub<p></p>{ 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</a></p>
+<a href='https://github.com/sodore/dsdsa/blob/master/epub/hgty48.epub?raw=true'>请下载【 让法官傻眼的办证词 】.epub </a></h4>
+</td>
  
 </tr>
 </table>
