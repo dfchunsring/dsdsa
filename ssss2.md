@@ -277,7 +277,7 @@
 <h3 align=center><a href="https://git.io/waaa">“1400例”栽赃术之三：收买危重病人栽赃</a></h3>
 中共为了诋毁法轮功，还利用医院收买危重、绝症病人，承诺减免医药费，让他们谎称自己是炼法轮功的，配合电视台、报社记者演戏。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <div align=center>
 <img src="images/03-1400n.jpg" width=680>
 </div>
@@ -287,18 +287,18 @@
 <h3 align=center><a href="https://git.io/waaa">“1400例”栽赃术之四：假借病逝案例栽赃</a></h3>
 中共把一些人的正常死亡说是因炼法轮功致死。其中有的人根本没有接触过法轮功，当然也不排除有些人为治病接触过法轮功，有些人在亲属的劝说下炼过功，但是他们真正的死因却是疾病。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 
 <hr>
 <h3 align=center><a href="https://git.io/waaa">案例：“剖腹找法轮”骗局</a></h3>
 河北省任丘市华北油田马建民，本人及家族都有精神病史。有一天，马建民一个人在家，他的家人回来时，看到地板上有很多血，马建民肚子剖开。当时公安局的人明明知道：马建民死的时候是一个人在家，究竟为什么会剖腹，谁也不清楚。但央视不顾事实，仍然一手编导了“剖腹找法轮”的骗局。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <hr>
 <h3 align=center><a href="https://git.io/waaa">案例：法院判决书认定杀父者实为精神病人</a></h3>
 山东新泰市泰山机械厂工人王安收因精神病复发，将其父用铁锨打死。一九九九年七月，这一事件却被诬蔑成王安收因“练法轮功”杀害父亲，并且收入江氏诬蔑法轮功的“1400”例中。但从下面提供的新泰市人民法院的官方文件中，我们可以事实确凿的清楚看到“王安收因练法轮功杀害父亲”是严重违背事实的谎言。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <p></p>
 <div align=center>
 <img src="images/02-min-shi-pan-jue-shu.jpg" width=680>
@@ -308,18 +308,18 @@
 <h3 align=center><a href="https://git.io/waaa">案例：哈尔滨市第四医院诱骗李淑贤栽赃</a></h3>
 一九九九年七月，黑龙江阿城市大岭乡农妇李淑贤因患胃溃疡住进了哈尔滨市第四医院。病重期间，正是中共江泽民集团在全国迫害、诽谤法轮功之时。当时李淑贤家庭生活非常贫困，很难交上住院费。在这关键时刻，医院院长出现了，主动为李淑贤及其家属出主意，告诉家属：你们就说李淑贤是炼“法轮功”的，就能获得医院免费治疗。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <hr>
 
 <h3 align=center><a href="https://git.io/waaa">案例：公安部门许诺栽赃法轮功可免死罪</a></h3>
 二零零零年辽宁盘锦市电视台曾报导“魏家杀母案”。事后了解到这位被杀的老年人是以拣破烂为生，其女在海城游手好闲，打麻将，没钱了就到盘锦母亲处要钱，其母没钱给她，她在晚上将其母杀死。后来，公安部门的人给其女出主意：“你就说你炼法轮功，往法轮功上一推没死罪。”魏家老百姓都知道她不是炼法轮功的，但老百姓面对强权的压力，只能背地议论。</p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <hr>
 
 <h3 align=center><a href="https://git.io/waaa">案例：和1400例一脉相承的傅怡彬杀亲案</a></h3>
 1400例之后，中共喉舌媒体又有几次利用精神病人杀人的恶性事件栽赃陷害法轮功。发生在二零零一年底的傅怡彬杀亲案就是其中影响最坏的一例。
 </p>
-<a href="https://git.io/1400"><h6 align="right">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
 <hr>
 
 <h3 align=center><a href="https://git.io/waaa">诬陷法轮功不让人吃药看医生</a></h3>
@@ -357,7 +357,7 @@
  <td> <div align=center>
 <img src="images/2018-04-20_154812.jpg" width=280>
 </div></td>
-	  <td> 突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</td>  
+	  <td><h4> 突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h4></td>  
 </tr>
 </table>
 
