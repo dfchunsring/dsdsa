@@ -534,27 +534,25 @@
 </table>
 
  <hr>
-
-
-
- <table>
-  <tr>
- <td>
-<h3 align=center><a href="https://git.io/tr">▬ 中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h3></td>
- 
-
+<table>
 <tr>
 <td><div align=center>
 <img src="images/2018-07-12_234725.jpg" width=300>
 </div></td>
 	
  <td>
- 一个曾经恶毒毁谤过大法的人含泪写下,<a href='https://github.com/sodore/dsdsa/blob/master/video/goodr2-s.mp4?raw=true'>一个佛教徒深深的忏悔 .mp4 下载 </a></h4>
+ <h3>一个曾经恶毒毁谤过大法的人含泪写下,<a href='https://github.com/sodore/dsdsa/blob/master/video/goodr2-s.mp4?raw=true'>一个佛教徒深深的忏悔 .mp4 下载 </a></h3>
 </td>
  </tr>
- 
- </tr>
 </table>
+
+ <table>
+  <tr>
+ <td>
+<h3 align=center><a href="https://git.io/tr">▬ 中共喉舌媒体加工的自焚录像欺骗了众多世人，获奖影片《伪火》却在海内外广泛传播,无数民众正是通过了解“自焚真相”从而明了中共迫害法轮功的真实情况。</a></h3></td>
+  </tr>
+</table>
+
 
 
 <h3 align=center><a href="https://git.io/tr">大批民众按手印　挺身声援反迫害</a></h3>
