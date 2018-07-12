@@ -287,7 +287,7 @@
 <h3 align=center><a href="https://git.io/waaa">“1400例”栽赃术之四：假借病逝案例栽赃</a></h3>
 中共把一些人的正常死亡说是因炼法轮功致死。其中有的人根本没有接触过法轮功，当然也不排除有些人为治病接触过法轮功，有些人在亲属的劝说下炼过功，但是他们真正的死因却是疾病。
 </p>
-<h6 align="right"> <a href="https://git.io/1400">阅读全文</h6></a>
+<h6 align="right"> <a href="https://git.io/1400"<a href=#5>>阅读全文</h6></a></a>
 
 <hr>
 <h3 align=center><a href="https://git.io/waaa">案例：“剖腹找法轮”骗局</a></h3>
