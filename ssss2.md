@@ -384,7 +384,7 @@
 <div align=center>
 <img src="images/4.25truth.jpg" width=680>
 </div>
-<div align=center> 上访群众都在街道一边，中南海一边是一个人都没有，根本不存在什么‘围攻’</div>
+<div align=center>▲ 上访群众都在街道一边，中南海一边是一个人都没有，根本不存在什么‘围攻’</div>
 <p></p>
 
 <table>
@@ -527,7 +527,7 @@
  <div align=center>
 <img src="images/2012-6-20-cmh-mainland-signature-02.jpg" width=680>
 </div>
- <div align=center>河北省泊头市富镇周官屯村三百多户村民联名按手印、加盖公章要求释放法轮功学员王晓东，撼动中共中央政治局。</div>
+ <div align=center>▲ 河北省泊头市富镇周官屯村三百多户村民联名按手印、加盖公章要求释放法轮功学员王晓东，撼动中共中央政治局。</div>
 <hr>
 
 <h3 align=center><a href="https://git.io/tr">七百多位民众自发联名声援营救法轮功学员李兰奎</a></h3>
@@ -543,12 +543,12 @@
 <div align=center>
 <img src="images/2012-6-20-cmh-mainland-signature-01.jpg" width=680>
 </div>
-<div align=center>黑龙江省有超过一万五千民众为素不相识的法轮功学员挺身而出，在替父鸣冤的秦荣倩的《喊冤昭雪书》上签名并按上大红手印</div>
+<div align=center>▲ 黑龙江省有超过一万五千民众为素不相识的法轮功学员挺身而出，在替父鸣冤的秦荣倩的《喊冤昭雪书》上签名并按上大红手印</div>
 </p>
  <div align=center>
 <img src="images/2018-05-20_112748.jpg" width=680>
 </div>
-
+<div align=center>▲ 全球逾百万民众签名要求制止中共迫害法轮功</div>
 <hr>
 
  <table>
