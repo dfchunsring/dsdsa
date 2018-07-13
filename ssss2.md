@@ -355,10 +355,10 @@
 
 <table>
   <tr>
- <td width=480> <div align=center>
-<img src="images/2018-04-20_154812.jpg" width=480>
+ <td width=380> <div align=center>
+<img src="images/2018-04-20_154812.jpg" width=380>
 </div></td>
-	  <td><h4>“翻墙”访问( 明慧网 http://www.minghui.org/ ),明慧网及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h4></td>  
+	  <td><h3>“翻墙”访问( 明慧网 http://www.minghui.org/ ),明慧网及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h3></td>  
 </tr>
 </table>
 
@@ -688,7 +688,7 @@
 </tr>
 </table>
 
-<h2 align=center><a href="https://>香港研讨会揭露中共强摘器官 促制止迫害</a></h2>
+<h2 align=center><a href="https://">香港研讨会揭露中共强摘器官 促制止迫害</a></h2>
 
 <div align=center>
 <img src="images/imgf30c63338928.jpg" width=580>
@@ -829,10 +829,16 @@
 ◆  退党电话：001-416-361-9895或001-888-892-8757  <br>
 ◆  退党传真：001-510-372-0176或001-201-625-6301 <br>
 ◆  可利用出国的机会，在国外将三退声明通过上述方式发表或交给退党服务中心义工。  <br>
-◆  (思榕)帮你退 qq: 1994474826  <br>
+◆  三退义工(思榕)帮你退 qq: 1994474826  <br>
 
 █ 提示：由于恐惧，中共对退党热线做了手脚，如从中国拨打接通后听到：“这是空号。”请别上当，不挂电话很快就能接通。
-</p>
+<p></p>
+
+
+<div align=center>
+<img src="images/25.jpg" width=580>
+</div>
+<p></p>
 <table>
 <tr>
 <td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
