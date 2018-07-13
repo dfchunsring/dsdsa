@@ -280,7 +280,7 @@
 </p>
 <h6 align="right"> <a href="https://git.io/1400">了解更多</h6></a>
 <div align=center>
-<img src="images/03-1400n.jpg" width=5piiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii80>
+<img src="images/03-1400n.jpg" width=580>
 </div>
 
 <hr>
@@ -355,8 +355,8 @@
 
 <table>
   <tr>
- <td> <div align=center>
-<img src="images/2018-04-20_154812.jpg" width=380>
+ <td width=480> <div align=center>
+<img src="images/2018-04-20_154812.jpg" width=480>
 </div></td>
 	  <td><h4>“翻墙”访问( 明慧网 http://www.minghui.org/ ),明慧网及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h4></td>  
 </tr>
@@ -372,15 +372,15 @@
 </div>
 <p></p>
 <div align=center>
-<img src="images/imgc17e5a51ab50.jpg" width=5
-     '80>
+<img src="images/imgc17e5a51ab50.jpg" width=580>
+     
 </div>
 
 <h3 align=center><a href="https://git.io/tr"> 四•二五上访现场：和平理性的典范</a></h3>
 
 <table>
   <tr>
- <td>  '
+ <td>  
   ► 上访群众都在街道一边，静静站立。</tr></td> 
    <tr>
  <td>  
