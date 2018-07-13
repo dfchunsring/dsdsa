@@ -790,6 +790,9 @@
 <div align=center>
 <img src="images/2017-07-22_223829.jpg" width=580>
 </div>
+2002年6月，贵州省平塘县掌布乡的一位村民，在掌布风景区发现一块巨石，石面上有排列整齐的六个大字：“中国共产党亡”。经三路专家前往考察，这块巨石距今已有2亿7千万年，500年前从高崖上落下来，断成两块，字在右边那块巨石上，清晰可辨。又经鉴定，这些字都是天然形成的，没有任何人为加工的痕迹。当时国内一百多家媒体，包括新华社、中央台都有过报道，网上也能搜索到相关照片，当然，这些媒体都不敢提最后那个“亡”字，但从照片上可以看出来。</p>
+千百年来的中国，在要出大事之前就一定有奇事发生，老天或以瑞兆示吉，或以凶相警世。今天，贵州平塘的“藏字石”是否也在向人们预示着天机呢？突现标语“中国共产党亡”，非同小可，绝非偶然。
+
 
 <hr>
 
@@ -814,6 +817,82 @@
 害已经走入穷途末路。
 
 <hr>
+
+<h2 align=center><a href="https://">退党、退团、退队（三退）方法</a></h2>
+
+三退（指退出中共党、团、队）声明，是发表在全球最大的华人媒体大纪元的退党网站上。　</p>
+截至2018年3月为止，已有超过3亿中国同胞声明三退，为自己选择了平安。您可选以下任一种方法声明三退：　　</p>
+ 
+◆  可使用真名、化名、小名（三退） <br>
+◆  用海外邮箱发表声明tuidang@epochtimes.com <br>
+◆  用翻墙软件登录http://tuidang.epochtimes.com <br>
+◆  退党电话：001-416-361-9895或001-888-892-8757  <br>
+◆  退党传真：001-510-372-0176或001-201-625-6301 <br>
+◆  可利用出国的机会，在国外将三退声明通过上述方式发表或交给退党服务中心义工。  <br>
+◆  (思榕)帮你退 qq: 1994474826  <br>
+
+█ 提示：由于恐惧，中共对退党热线做了手脚，如从中国拨打接通后听到：“这是空号。”请别上当，不挂电话很快就能接通。
+
+<table>
+<tr>
+<td width=500 ><a href="https://git.io/toto" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true">(图文、视频、音频).下载(epub) </a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 渝妇被活摘器官时逃生 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/cji59.epub?raw=true"> (图文、视频、音频) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 见证中国活摘器官是真实 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fdfd23.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 武汉数十名大学生神秘「蒸发」 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jco12.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 江绵恒换肾与中共权贵 活摘器官续命内幕 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ytuu89.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 让法官傻眼的办证词 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 顺天意得平安 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 传奇人生 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<table>
+<tr>
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载电子书（ePub版）</a></div></p>
+ 		
+</td></tr>
+</table>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
