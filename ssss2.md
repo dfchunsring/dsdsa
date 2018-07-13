@@ -602,7 +602,7 @@
   <table>
   <tr>
  <td> <div align=center>
-<img src="images/1-166-560x400-560x400.jpg" width=380>
+<img src="images/img85cd19d1beca.jpg" width=380>
 </div></td>
  <td>
 	<h4> { 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</p>
