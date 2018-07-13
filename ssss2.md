@@ -680,7 +680,7 @@
 <div align=center>
 <img src="images/p8769511a729054741-ss.jpg" width=580>
 </div>
-
+</p>
 <table>
 <tr>
 <td>
