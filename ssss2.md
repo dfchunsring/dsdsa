@@ -818,6 +818,16 @@
 
 <hr>
 
+<div align=center>
+<img src="images/img88a2f6715a6b.jpg" width=580>
+</div>
+</p>
+
+<div align=center>
+<img src="images/imgc0610a.jpg" width=580>
+</div>
+</p>
+
 <h2 align=center><a href="https://">退党、退团、退队（三退）方法</a></h2>
 <table>
 <tr>
@@ -895,14 +905,8 @@
 </table>
 </table>
 
-
 <div align=center>
-<img src="images/img88a2f6715a6b.jpg" width=580>
-</div>
-</p>
-
-<div align=center>
-<img src="images/imgc0610a.jpg" width=580>
+<img src="images/img3b7901e1.jpg" width=580>
 </div>
 
 
