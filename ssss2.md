@@ -49,58 +49,58 @@
  <p></p>
          
 <div align=center>
-<img src="images/1407101314002639-600x400.jpg" width=680>
+<img src="images/1407101314002639-600x400.jpg" width=580>
 </div>
 <div align=center>▲ 2002年1月，北美中文电视台“新唐人”制作了揭露“天安门自焚”真相的影片《伪火》（False Fire），该片从各国参赛的600多部影片中脱颖而出，于2003年11月8日获得第51届哥伦布国际电影电视节荣誉奖，该纪录片揭开了“自焚案”部分漏洞。（大纪元资料室）</div>
  <p></p>
  
  <div align=center>
-<img src="images/MZX-GIF.gif" width=680>
+<img src="images/MZX-GIF.gif" width=580>
 </div>
  <p></p>
  <hr>
 <h2 align=center> <a href="https://git.io/ykkk"> ■ 气管切开还能唱歌 明显违反医学常识</a></h2>
 <div align=center>
-<img src="images/1110302221042214-600x400.jpg" width=680>
+<img src="images/1110302221042214-600x400.jpg" width=580>
 </div>
 <div align=center>▲ 12岁的小姑娘刘思影全身烧伤面积达40%，头、面部四度烧伤，双眼睑外翻，呼吸困难，颜面、双手基本毁损。然而，身受如此重伤的刘思影却仍然能在新华社的报导里与记者对白。中央电视台“天安门自焚案”中的“烧伤病人”全身包裹，记者不穿卫生服，不戴口罩，大胆采访。明显违反医学常识。气管切开手术后，人是绝不可能在这么短时间里恢复讲话能力的。大面积烧伤病人，她的创面，要尽量的暴露，因为裹得太严实了，护士换药、清创非常的麻烦而且很容易造成创面的化脓感染。（视频截图）</div>
  <p></p>
 
 <div align=center>
-<img src="images/n3613031_3.jpg" width=680>
+<img src="images/n3613031_3.jpg" width=580>
 </div>
  <p></p>
  <hr>
  <h2 align=center> <a href="https://git.io/ykkk"> ■ 衣服烧烂，头发却耐火？人被严重烧伤了 雪碧瓶却完好无损</a></h2>
 <div align=center>
-<img src="images/2013-6-5-zifen-2.jpg" width=680>
+<img src="images/2013-6-5-zifen-2.jpg" width=580>
 </div>
  <div align=center>▲ 警察晃着灭火毯等镜头，棉衣裤子烧烂，头发还完好，火烧后盛着汽油的塑料瓶完好翠绿。央视女记者承认自焚“摆拍”。</div>
 <p></p>
  
  <div align=center>
-<img src="images/1310281753432120.jpg" width=680>
+<img src="images/1310281753432120.jpg" width=580>
 </div>
 <div align=center>▲ 天安门自焚伪案中在王进东自焚时，警察拿着所谓的“灭火毯”，却垂在王进东的身后，垂在下面，是在做戏，不是在救“火”。（视频截图）</div>
  <p></p>
  <hr>
   <h2 align=center> <a href="https://git.io/ykkk">■ 天安门警察背着灭火器巡逻？</a></h2>
  <div align=center>
-<img src="images/2003-8-19-zifen_spot.jpg" width=680>
+<img src="images/2003-8-19-zifen_spot.jpg" width=580>
 </div>
  <div align=center>▲ 澳洲《时代报》（The Age）2004年10月16日的报道对央视的自焚录像做出强烈质疑：“警方事先不知情，却在90秒内，携带大量消防设备出现在画面中。”</div>
   <p></p>
  <hr>
   <h2 align=center> <a href="https://git.io/ykkk">■ 谁是画面外的摄影师？</a></h2>
  <div align=center>
-<img src="images/1310292039482120.jpg" width=680>
+<img src="images/1310292039482120.jpg" width=580>
 </div>
  <div align=center>▲ 图中的男子在军警间从容拍摄。国际社会质疑：央视自焚录像有远景、移动拍摄的近景，还有多个自焚者在不同位置的特写，并且录下了声音，显然摄影师做好了准备才能做到的专业拍摄。</div>
   <p></p>
   <hr>
  <h2 align=center> <a href="https://git.io/ykkk"> ■ 女主角被当场灭口？</a></h2>
 <div align=center>
-<img src="images/zifengif-lcl.gif" width=680>
+<img src="images/zifengif-lcl.gif" width=580>
 </div>
  <div align=center>▲ 让录像说话：假冒法轮功学员自焚的刘春铃被不明人士当场灭口<p></p>
 从中央电视台《焦点访谈》节目中关于自焚的现场录像可以看到，有一名身穿大衣的男子手持一重物，用力向死者刘春玲的头部击打，导致刘春玲急速倒地，并用手护卫被打的左侧头部。追查国际有理由认为刘春玲极有可能是在现场被打死，而非被烧死。现场这一名身穿军大衣的男子很明显不是在参与救人，而是要置刘春玲于死地！
@@ -111,13 +111,14 @@
 <hr>
  <h2 align=center> <a href="https://git.io/ykkk"> ■ 自焚的王进东是法轮功学员吗？</a></h2>
 <div align=center>
-<img src="images/zifen-en.jpg" width=680>
+<img src="images/zifen-en.jpg" width=580>
 </div>
  <div align=center>▲ 自称“老学员”的王进东竟然不会双盘腿。</div>
  <p></p>
 
 <div align=center>
-<img src="images/jieyin-3.jpg" width=680>
+<img src="images/jieyin-3.jpg" width=5'
+				       80>
 </div>
  <div align=center>▲ 王进东的大拇指不是法轮功的正确动作——指尖轻轻接触，而是错误的上下重叠。</div>
  <p></p>
@@ -251,13 +252,13 @@
 
 <h2 align="center"><a href="https://git.io/waaa">法轮功祛病健身效果</a></h2> 
 <div align=center>
-<img src="images/02-park.jpg" width=680>
+<img src="images/02-park.jpg" width=580>
 </div>
 
 法轮功是李洪志先生于一九九二年五月传出的一种佛家上乘修炼大法，因为其教人修心向善和神奇的祛病健身功效迅速传遍中国，并传播到海外，修炼人数迅速增长。一九九八年国家体育总局组织北京、武汉、大连及广东省的医学专家，对近三万五千名法轮功学员做了五次医学调查，证明了法轮功祛病健身有效率高于百分之九十八。
 
 <div align=center>
-<img src="images/02-r-chart.jpg" width=680>
+<img src="images/02-r-chart.jpg" width=580>
 </div>
 <hr>
 
@@ -279,7 +280,7 @@
 </p>
 <h6 align="right"> <a href="https://git.io/1400">了解更多</h6></a>
 <div align=center>
-<img src="images/03-1400n.jpg" width=680>
+<img src="images/03-1400n.jpg" width=5piiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii80>
 </div>
 
 <hr>
@@ -301,7 +302,7 @@
 <h6 align="right"> <a href="https://git.io/1400">了解更多</h6></a>
 <p></p>
 <div align=center>
-<img src="images/02-min-shi-pan-jue-shu.jpg" width=680>
+<img src="images/02-min-shi-pan-jue-shu.jpg" width=580>
 </div>
 <hr>
 
@@ -371,14 +372,15 @@
 </div>
 <p></p>
 <div align=center>
-<img src="images/imgc17e5a51ab50.jpg" width=680>
+<img src="images/imgc17e5a51ab50.jpg" width=5
+     '80>
 </div>
 
 <h3 align=center><a href="https://git.io/tr"> 四•二五上访现场：和平理性的典范</a></h3>
 
 <table>
   <tr>
- <td>  
+ <td>  '
   ► 上访群众都在街道一边，静静站立。</tr></td> 
    <tr>
  <td>  
@@ -417,7 +419,7 @@
  <td> 
    <h3 align=center><a href="https://git.io/tr">四•二五上访的直接原因：天津警察抓人打人，拒不放人</a></h3>
    <div align=center>
-<img src="images/425_april25_peaceful_appeal_03.jpg" width=680>
+<img src="images/425_april25_peaceful_appeal_03.jpg" width=580>
 </div>
    
    一九九九年四月十一日，当时的中共政法委书记罗干的连襟何祚庥在天津教育学院办的《青少年科技博览》杂志上发表文章，无中生有诋毁法轮功。四月十八日至二十四日，部分天津法轮功学员前往天津教育学院及相关机构反映实情。四月二十三日、二十四日，中共政法委书记罗干命令天津市当局出动防暴警察三百多名，驱散并殴打澄清事实的法轮功学员，并逮捕了四十五名法轮功学员。法轮功学员到天津市政府要求放人，被告知：公安部介入了这个事件，你们去北京才能解决问题。
@@ -478,7 +480,7 @@
  <table>
   <tr>
  <td> <div align=center>
-<img src="images/mhradio-header.jpg" width=680>
+<img src="images/mhradio-header.jpg" width=580>
 </div></td>
  <td><a href='https://github.com/sodore/dsdsa/blob/master/video/zxcs_425_1_20090424_24343.mp3?raw=true'>请收听 1999年4月25日万名法轮功学员上访 .mp3 </a></td>
 
@@ -487,7 +489,7 @@
 <p></p>
 <hr>
  <div align=center>
-<img src="images/2018-4-23-mh-newyork-425-parade-10--ss.jpg" width=680>
+<img src="images/2018-4-23-mh-newyork-425-parade-10--ss.jpg" width=580>
 </div>
 
 <p></p>
@@ -562,7 +564,7 @@
 近年中国民众制止迫害之声也持续不绝，与迫害初期的不敢吱声迥然不同。二零一二年二月二十五日，因修炼法轮功的王晓东被非法抄家、绑架、抢劫及抓捕，河北省沧州地区泊头市富镇周官屯村全村三百户各派一名代表在呼吁书上签名，要求市检察院释放王晓东，此联合签名按手印的请愿书引起中共中央政治局的震动。
 
  <div align=center>
-<img src="images/2012-6-20-cmh-mainland-signature-02.jpg" width=680>
+<img src="images/2012-6-20-cmh-mainland-signature-02.jpg" width=580>
 </div>
  <div align=center>▲ 河北省泊头市富镇周官屯村三百多户村民联名按手印、加盖公章要求释放法轮功学员王晓东，撼动中共中央政治局。</div>
 <hr>
@@ -571,14 +573,14 @@
 二零一二年六月七日，河北省正定县法轮功学员李兰奎被“六一零”人员绑架到正定县看守所，再被转到石家庄市洗脑班关押迫害。中共警察肆意迫害好人的恶行，引发了正定县很多百姓的强烈不满，七百多位民众集体自发联名声援营救被绑架的李兰奎。
 
  <div align=center>
-<img src="images/2012-7-25-zd-lmx2.jpg" width=680>
+<img src="images/2012-7-25-zd-lmx2.jpg" width=580>
 </div>
 
 <hr>
 <h3 align=center><a href="https://git.io/tr">大规模民众联名上书，声援营救法轮功学员</a></h3>
 大规模民众联名上书这样的事件在中国越来越多，河北唐海县五百六十二位村民按手印，支持释放法轮功学员郑祥星；黑龙江则有一万五千民众为素不相识的法轮功学员挺身而出，站出来支持当地替父鸣冤的秦荣倩，在她的《喊冤昭雪书》上签名并按上大红手印。秦荣倩的父亲秦月明，因坚持信仰法轮功而被当局关在监狱中酷刑折磨致死。
 <div align=center>
-<img src="images/2012-6-20-cmh-mainland-signature-01.jpg" width=680>
+<img src="images/2012-6-20-cmh-mainland-signature-01.jpg" width=580>
 </div>
 <div align=center>▲ 黑龙江省有超过一万五千民众为素不相识的法轮功学员挺身而出，在替父鸣冤的秦荣倩的《喊冤昭雪书》上签名并按上大红手印</div>
 </p>
