@@ -906,7 +906,7 @@
 </table>
 
 <div align=center>
-<img src="images/img3b7901e1.jpg" width=580>
+<img src="images/img3b7901e1.jpg" width=880>
 </div>
 
 
