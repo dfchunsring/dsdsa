@@ -117,8 +117,8 @@
  <p></p>
 
 <div align=center>
-<img src="images/jieyin-3.jpg" width=5'
-				       80>
+<img src="images/jieyin-3.jpg" width=580>
+				       
 </div>
  <div align=center>▲ 王进东的大拇指不是法轮功的正确动作——指尖轻轻接触，而是错误的上下重叠。</div>
  <p></p>
