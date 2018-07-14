@@ -899,11 +899,11 @@
 
 <tr>
 <td width=880>
-	更多epub,请在此<a href="https://git.io/3f"> https://git.io/3f 下载</a>
+	更多epub真相,请在此<a href="https://git.io/3f"> https://git.io/3f 下载</a>
 </td></tr>
 
 
-
+<table>
 <tr>
 <td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
  <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
