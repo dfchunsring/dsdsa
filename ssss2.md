@@ -358,7 +358,7 @@
  <td width=380> <div align=center>
 <img src="images/2018-04-20_154812.jpg" width=380>
 </div></td>
-	  <td><h3>“翻墙”访问( 明慧网 http://www.minghui.org/ ),明慧网及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h3></td>  
+	  <td><h4>“翻墙”访问( 明慧网 http://www.minghui.org/ ),明慧网及时报道中共江泽民集团迫害法轮功的事实。联合国人权报告多次引用明慧网案例并要求停止迫害。突破网络封锁了解真相,<a href="https://git.io/op"> https://git.io/op </a>免费翻墙下载,请收藏此网址。</h4></td>  
 </tr>
 </table>
 
