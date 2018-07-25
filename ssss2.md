@@ -539,10 +539,8 @@
 <table>
 <tr>
 <td><div align=center>
-<img src="images/2018-07-12_234725.jpg" width=300>
-</div></td>
-	
- <td>
+<img src="images/2018-07-12_234725.jpg" width=400>
+</div>
  <h3><a href='https://github.com/sodore/dsdsa/blob/master/video/goodr2-s.mp4?raw=true'>一个曾经恶毒毁谤过大法的人含泪写下,一个佛教徒深深的忏悔 .mp4 下载 </a></h3>
 </td>
  </tr>
@@ -602,10 +600,10 @@
   <table>
   <tr>
  <td> <div align=center>
-<img src="images/img85cd19d1beca.jpg" width=380>
-</div></td>
- <td>
-	<h4> { 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</p>
+<img src="images/img85cd19d1beca.jpg" width=400>
+</div>
+ 
+<h4> { 正义律师的辩护，震慑了在场的所有中共司法人员和旁听席上的中共政法委及国保系统人员，他们全都静静的听着，没有一个人出声打断。}</p>
 <a href='https://github.com/sodore/dsdsa/blob/master/epub/55k.epub?raw=true'>1.请下载【禁闻】周向阳案 律师庭辩震慑办案人员 .epub</p></a>
 <a href='https://github.com/sodore/dsdsa/blob/master/epub/hgty48.epub?raw=true'>2.请下载【 让法官傻眼的办证词 】.epub </a></h4></p>
 
