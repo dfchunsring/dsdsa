@@ -865,12 +865,20 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 
 <tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 我被马三家秘密投入男牢的遭遇 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+
+<tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 让法官傻眼的办证词 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 顺天意得平安 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/3wjo1.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【 喜得大法 绝处逢生 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/like.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
 <tr>
 <td width=500><a href="https://git.io/toto" target="_blank">【 传奇人生 】</a></td>
