@@ -6,9 +6,17 @@
 
 <table>
 <tr>
- <td> <h2 align=center>善恶一念间 </h2></p> 
+<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
+ 	
+</td></tr>
+</table>
 
-<h4>人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』</h4>
+
+<table>
+<tr>
+ <td> <h2 align=center>善恶一念间 </h2></p> 
+人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』
 </td>
 </tr>
 </table>
@@ -39,9 +47,7 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 </table>
 
-<div align=center>
-<img src="images/hr2.jpg" width=880>
-</div>
+
 
 <div align=center>
 <img src="images/flg-ysss.jpg" width=280>
@@ -67,9 +73,7 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 </table>
 
-<div align=center>
-<img src="images/hr2.jpg" width=880>
-</div>
+
 
 <div align=center>
 <img src="images/2015-5-12--02.jpg" width=580>
@@ -95,20 +99,11 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
 </table>
 
-<div align=center>
-<img src="images/hr2.jpg" width=880>
-</div>
-<table>
-<tr>
-<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
- <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
- 		<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
-</td></tr>
-</table>
+<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 
 
 <div align=center>
-<img src="images/hr2.jpg" width=880>
+<img src="images/hr2.jpg" width=280>
 </div>
 
 <div align="center"><h3>聆聽神韻交響樂團演奏《大汗》之隨想 跟著大汗的戰馬馳騁草原</h3></div>
