@@ -70,7 +70,51 @@
 <table>
 <tr>
 <td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true" target="_blank">【 我被马三家秘密投入男牢的遭遇 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story1.epub?raw=true" target="_blank">【一位空軍少校穿越生死之旅】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story1.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story2.epub?raw=true" target="_blank">【一位青年教师的生命之歌】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story2.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story3.epub?raw=true" target="_blank">【 忆刘成军 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story3.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true" target="_blank">【 河北农民陈运川一家的故事 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story4.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story5.epub?raw=true" target="_blank">【 流泪的并蒂莲 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story5.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story6.epub?raw=true" target="_blank">【 长春农行最美女职员的悲惨遭遇 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story6.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story8.epub?raw=true" target="_blank">【 酷刑下的勇者——袁江 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story8.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story9.epub?raw=true" target="_blank">【 五月飞雪——石家庄奇冤 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story9.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true" target="_blank">【 姚遠鷹的故事 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
+
 
 <tr>
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
