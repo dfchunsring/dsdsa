@@ -13,26 +13,6 @@
 </tr>
 </table>
 
-<div align=center>
-<img src="images/2018-05-16_173435.jpg" width=580>
-</div>
-<p></p>
-
-<table>
-<tr>
- <td> <h2 align=center>【爱尔兰国家电台 曝光中共活摘法轮功学员器官】</h2></p> 
-
-爱尔兰国家电台王牌主持人帕特.肯尼(Pat Kenny)在其「Today with Pat Kenny」节目中采访了 
-加拿大著名人权律师戴维.麦塔斯(David Matas)，曝光了中共活摘法轮功学员器官的罪行。
-
-麦塔斯说：「不是摘完器官后还活着，也不是死亡后才摘掉器官的，法轮功学员是在被摘取器 
-官的过程中被杀害了，是为了摘掉他们的器官而活活把他们杀害了，然后又焚尸灭迹，这是我 
-们目前得到的证据。」
-</td>
-</tr>
-</table>
-
-
 <table>
 <tr>
 <td width=500 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
@@ -60,13 +40,17 @@
 </table>
 
 <div align=center>
-<img src="images/flg-ysss.jpg" width=580>
+<img src="images/hr2.jpg" width=880>
+</div>
+
+<div align=center>
+<img src="images/flg-ysss.jpg" width=280>
 </div>
 <p></p>
 
 <table>
 <tr>
- <td> <h2 align=center>朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！ </h2></p> 
+ <td> <h3 align=center>朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！ </h3></p> 
 
 一场惨绝人寰的劫难降临在中国大陆。人渣败类江泽民与中共相互利用，发动了一场灭绝人性的迫害法轮功运动，在中共江泽民流氓集团“名誉上搞臭、经济上截断、肉体上消灭”、“打死白打死，打死算自杀”和“不查身源，直接火化”的灭绝政策下，上亿法轮功学员被污蔑，数百万学员被绑架、关押、劳教、判刑，甚至被酷刑致死或活摘器官致死，数百万家庭被迫害得支离破碎、妻离子散、家破人亡！法轮功学员及他们的家人、亲朋好友笼罩在一片红色恐怖之中……
 </td>
@@ -82,6 +66,10 @@
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 </table>
+
+<div align=center>
+<img src="images/hr2.jpg" width=880>
+</div>
 
 <div align=center>
 <img src="images/2015-5-12--02.jpg" width=580>
@@ -107,6 +95,9 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
 </table>
 
+<div align=center>
+<img src="images/hr2.jpg" width=880>
+</div>
 <table>
 <tr>
 <td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
@@ -116,7 +107,9 @@
 </table>
 
 
-<hr2>
+<div align=center>
+<img src="images/hr2.jpg" width=880>
+</div>
 
 <div align="center"><h3>聆聽神韻交響樂團演奏《大汗》之隨想 跟著大汗的戰馬馳騁草原</h3></div>
  <div align="center"><h4>by 王金丁 2017.11.08 </h4></div>
