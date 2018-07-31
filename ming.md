@@ -21,7 +21,7 @@
 </table>
 
 <div align=center>
-<img src="images/2018-07-16_173435.jpg" width=280>
+<img src="images/2018-07-16_173435.jpg" width=480>
 </div>
 <p></p>
 
@@ -50,16 +50,17 @@
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
 </table>
-
+<p></p>
 
 <table>
 <tr>
- <td> <h3 align=center>朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！ </h3></p> 
+ <td> <h4 align=center>朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！ </h4></p> 
 
 一场惨绝人寰的劫难降临在中国大陆。人渣败类江泽民与中共相互利用，发动了一场灭绝人性的迫害法轮功运动，在中共江泽民流氓集团“名誉上搞臭、经济上截断、肉体上消灭”、“打死白打死，打死算自杀”和“不查身源，直接火化”的灭绝政策下，上亿法轮功学员被污蔑，数百万学员被绑架、关押、劳教、判刑，甚至被酷刑致死或活摘器官致死，数百万家庭被迫害得支离破碎、妻离子散、家破人亡！法轮功学员及他们的家人、亲朋好友笼罩在一片红色恐怖之中……
 </td>
 </tr>
 </table>
+<p></p>
 
 <div align=center>
 <img src="images/flg-ysss.jpg" width=280>
@@ -75,7 +76,7 @@
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
 </table>
-
+<p></p>
 
 
 <div align=center>
@@ -101,6 +102,7 @@
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
 </table>
+<p></p>
 
 <div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 
