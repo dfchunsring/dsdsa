@@ -1,8 +1,20 @@
 
 <div align=center>
-<img src="images/25.jpg" width=580>
+<img src="images/25.jpg" width=880>
 </div>
 <p></p>
+
+<table>
+<tr>
+ <td> <div align=center>善恶一念间 </div></p> 
+
+人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。
+
+善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td width=500 ><a href="https://github.com/sodore/dsds/blob/master/book/flg23.epub?raw=true" target="_blank">【 中共活体摘取法轮功学员器官br群体灭绝性大屠杀 】</a></td>
@@ -27,6 +39,9 @@
 <tr>
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true" target="_blank">【 大陆器官乱象背后 挑战人类道德底线 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/ass56.epub?raw=true"> (图文) .下载(epub)</a></td></tr>
+</table>
+
+
 
 <tr>
 <td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/qu6.epub?raw=true" target="_blank">【 我被马三家秘密投入男牢的遭遇 】</a></td>
@@ -61,7 +76,7 @@
 </table>
 </table>
 
-<hr>
+<hr2>
 
 <div align="center"><h3>聆聽神韻交響樂團演奏《大汗》之隨想 跟著大汗的戰馬馳騁草原</h3></div>
  <div align="center"><h4>by 王金丁 2017.11.08 </h4></div>
