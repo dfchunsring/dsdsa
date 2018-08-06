@@ -1023,6 +1023,10 @@
 <hr>
 
 <h2 align=center><a href="https://">誓言保护信仰自由 美国创办宗教自由会议</a></h2>
+<div align=center>
+<img src="images/2018-08-06_175702.jpg" width=400>
+</div>
+ <h3 align=center><a href='https://github.com/sodore/dsdsa/blob/master/video/20180728.mp4?raw=true'>► 美国创办宗教自由会议  誓言保护信仰自由 .mp4 下载 </a></h3></p>
 
 【新唐人2018年07月29日讯】新闻周刊（638）7月24号到26号，美国国务院召开了首届〝促进宗教自由〞部长级会议。副总统彭斯和国务卿蓬佩奥亲自出席，总统川普也发推支持。川普政府誓言，将把维护宗教自由作为首要任务处理。</p>
 
@@ -1064,10 +1068,7 @@
 
 撰稿：林宇 剪辑：明玉
 
-<div align=center>
-<img src="images/2018-08-06_175702.jpg" width=400>
-</div>
- <h3 align=center><a href='https://github.com/sodore/dsdsa/blob/master/video/20180728.mp4?raw=true'>► 美国创办宗教自由会议  誓言保护信仰自由 .mp4 下载 </a></h3>
+
 
 
 <hr>
