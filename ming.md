@@ -117,7 +117,7 @@
 <table>
 <tr>
  <td> <div align=center>
-<img src="images/2018-08-07_232607.jpg" width=580>
+<img src="images/2018-08-07_232607.jpg" width=280>
 </div>
 <a href="https://git.io/3f">▬ 人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』</a>
 </td>
@@ -163,7 +163,9 @@
 </table>
 <p></p>
 
-3退是福
+<div align=center>
+<img src="images/2018-08-07_235205.jpg" width=280>
+</div>
 
 <table>
  <tr>
