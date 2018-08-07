@@ -12,16 +12,10 @@
 </table>
 
 <p></p>
-<table>
-<tr>
- <td> <h3 align=center>善恶一念间 </h3></p> 
-人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』
-</td>
-</tr>
-</table>
+
 
 <div align=center>
-<img src="images/2018-07-16_173435.jpg" width=480>
+<img src="images/2018-07-16_173435.jpg" width=380>
 </div>
 <p></p>
 
@@ -122,7 +116,13 @@
 </table>
 <p></p>
 
-
+<table>
+<tr>
+ <td> <h3 align=center>善恶一念间 </h3></p> 
+人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』
+</td>
+</tr>
+</table>
 <div align=center>
 <img src="images/174401.jpg" width=580>
 </div>
