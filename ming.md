@@ -48,9 +48,9 @@
 
 <table>
 <tr>
- <td> <h3 align=center>朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！ </h3></p> 
+ <td> <h3 align=center><a href="https://git.io/3f">朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！</a> </h3></p> 
 
-一场惨绝人寰的劫难降临在中国大陆。人渣败类江泽民与中共相互利用，发动了一场灭绝人性的迫害法轮功运动，在中共江泽民流氓集团“名誉上搞臭、经济上截断、肉体上消灭”、“打死白打死，打死算自杀”和“不查身源，直接火化”的灭绝政策下，上亿法轮功学员被污蔑，数百万学员被绑架、关押、劳教、判刑，甚至被酷刑致死或活摘器官致死，数百万家庭被迫害得支离破碎、妻离子散、家破人亡！法轮功学员及他们的家人、亲朋好友笼罩在一片红色恐怖之中……
+<a href="https://git.io/3f">▬ 一场惨绝人寰的劫难降临在中国大陆。人渣败类江泽民与中共相互利用，发动了一场灭绝人性的迫害法轮功运动，在中共江泽民流氓集团“名誉上搞臭、经济上截断、肉体上消灭”、“打死白打死，打死算自杀”和“不查身源，直接火化”的灭绝政策下，上亿法轮功学员被污蔑，数百万学员被绑架、关押、劳教、判刑，甚至被酷刑致死或活摘器官致死，数百万家庭被迫害得支离破碎、妻离子散、家破人亡！法轮功学员及他们的家人、亲朋好友笼罩在一片红色恐怖之中……</a> 
 </td>
 </tr>
 </table>
@@ -117,14 +117,14 @@
 <table>
 <tr>
  <td> <div align=center>
-<img src="images/2018-08-07_232607.jpg" width=280>
+<img src="images/2018-08-07_232607.jpg" width=100>
 </div>
 <a href="https://git.io/3f">▬ 人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』</a>
 </td>
 </tr>
 </table>
 <div align=center>
-<img src="images/174401.jpg" width=580>
+<img src="images/174401.jpg" width=380>
 </div>
 <p></p>
 
@@ -164,7 +164,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-07_235205.jpg" width=280>
+<img src="images/2018-08-08_002132.jpg" width=280>
 </div>
 
 <table>
@@ -184,10 +184,14 @@
 <td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/why.epub?raw=true" target="_blank">【 为什么劝你退党 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/why.epub?raw=true">(图文).下载(epub)</a></td></tr>
 
-<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 
 </table>
 <p></p>
+
+<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+
+
+
 
 
 <div align=center>
