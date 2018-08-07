@@ -110,16 +110,16 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Dafa story10.epub?raw=true">  (图文) .下载(epub)</a></td></tr>
 
 
-<tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+
 </table>
 <p></p>
 
 <table>
 <tr>
- <td> <h3 align=center>善恶一念间 </h3></p> 
-人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』
+ <td> <div align=center>
+<img src="images/2018-08-07_232607.jpg" width=580>
+</div>
+<a href="https://git.io/3f">▬ 人的一念可以铸成大错，造业招天谴；也可以成就善举，积德享福报。如影随形，丝毫不爽。善恶出自一念之间，天地可鉴。古人云：『试看古往今来，只是一本账簿。』</a>
 </td>
 </tr>
 </table>
@@ -141,14 +141,51 @@
 <tr>
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true" target="_blank">【 传奇人生 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
-
-<tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
 </table>
 <p></p>
 
+
+
+<table>
+ <tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true" target="_blank">【 (真相)-控告江泽民】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+ 
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+
+</table>
+<p></p>
+
+3退是福
+
+<table>
+ <tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/3tx2.epub?raw=true" target="_blank">【 3退是福 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/3tx2.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/mnbv.epub?raw=true" target="_blank">【 特重要必读：大灾难保命秘诀 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/mnbv.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/sdfg.epub?raw=true" target="_blank">【 解体灭亡中共才是人类面临的当务之急！ 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/sdfg.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/why.epub?raw=true" target="_blank">【 为什么劝你退党 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/why.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
 <div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+
+</table>
+<p></p>
 
 
 <div align=center>
