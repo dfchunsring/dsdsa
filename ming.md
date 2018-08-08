@@ -13,7 +13,7 @@
  <div align=center>
 <img src="images/895556.jpg" width=880>
 </div>
- 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+ 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。</p><a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
  <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
  	</td></tr>
 </table>
@@ -151,7 +151,7 @@
 <div align=center>
 <img src="images/go4523.jpg" width=880>
 </div>
-
+<p></p>
 <table>
  <tr>
 <td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true" target="_blank">【 (真相)-控告江泽民】</a></td>
@@ -173,9 +173,7 @@
 <img src="images/dfzh_0319.jpg" width=880>
 </div>
 
-<div align=center>
-<img src="images/2018-08-08_002132.jpg" width=280>
-</div>
+
 
 <table>
  <tr>
