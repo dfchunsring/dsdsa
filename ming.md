@@ -168,12 +168,11 @@
 <tr>
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true" target="_blank">【 传奇人生 】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
-</table>
 
 <tr>
 <td width=500><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true" target="_blank">【风雨天地行】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(图文).下载</a></td></tr>
-
+</table>
 <p></p>
 
 <div align=center>
@@ -284,9 +283,12 @@
 
 </table>
 
+ <div align=center>
+<img src="images/aa0807.png" width=580>
+</div>
 
  <div align=center>
-<img src="images/img3b790.jpg" width=880>
+<img src="images/img3b790.jpg" width=580>
 </div>
 
  
