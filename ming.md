@@ -304,7 +304,10 @@
 </table>
 <p></p>
 
-<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+<div align=center>
+ <img src="images/2018-08-07_223448.jpg" width=100>
+
+ <a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 
  <div align=center>
 <img src="images/aa0807.png" width=880>
