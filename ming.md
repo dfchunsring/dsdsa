@@ -64,6 +64,11 @@
 <p></p>
 
 <div align=center>
+<img src="images/img44f82e134495.jpg" width=880>
+</div>
+
+
+<div align=center>
 <img src="images/flg-ysss.jpg" width=280>
 </div>
 <p></p>
@@ -123,7 +128,7 @@
 
 
 <div align=center>
-<img src="images/2018-08-08_002940.jpg" width=380>
+<img src="images/2018-08-08_002940.jpg" width=880>
 </div>
 <p></p>
 
@@ -143,7 +148,9 @@
 </table>
 <p></p>
 
-
+<div align=center>
+<img src="images/go4523.jpg" width=880>
+</div>
 
 <table>
  <tr>
@@ -161,6 +168,10 @@
 
 </table>
 <p></p>
+
+<div align=center>
+<img src="images/dfzh_0319.jpg" width=880>
+</div>
 
 <div align=center>
 <img src="images/2018-08-08_002132.jpg" width=280>
