@@ -221,7 +221,11 @@
 <p></p>
 
 <div align=center>
-<img src="images/go4523.jpg" width=780>
+<img src="images/2018-08-09_003424.jpg" width=780>
+</div>
+
+ <div align=center>
+<img src="images/2018-08-08_174528.jpg" width=680>
 </div>
 <p></p>
 <table>
