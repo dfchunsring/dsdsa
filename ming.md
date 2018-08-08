@@ -77,7 +77,7 @@
 <p></p>
 
  <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=880>
+<img src="images/img45b385b4aaa1.jpg" width=680>
 </div>
 
 
@@ -145,7 +145,7 @@
 <img src="images/2018-08-08_215609.jpg" width=580>
 </div>
 <div align=center>
-<img src="images/192336.jpg" width=880>
+<img src="images/192336.jpg" width=680>
 </div>
 
 <p></p>
