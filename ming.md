@@ -182,6 +182,85 @@
 
 <div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 
+<table>
+<tr>
+<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true" target="_blank">【九评共产党】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/9-mp3-jpgcdm4a5k.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
+
+<tr>
+<td width=500><a href="github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true" target="_blank">【三亿退党潮】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/300Mst-s .epub?raw=true">(图文、視頻).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true" target="_blank">【为什么要三退】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/whytd.epub?raw=true">(图文、音頻).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true" target="_blank">【认识法轮大好】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/dfhao.epub?raw=true">(图文、視頻).下载</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true" target="_blank">【法轮大法洪传世界】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fldfhao.epub?raw=true">(图文、音頻).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true" target="_blank">【风雨天地行】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(图文).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true" target="_blank">【一位律师的肺腑直言】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(图文).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true" target="_blank">【这个星球上前所未有的邪恶】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/oh.epub?raw=true">(图文、視頻).下载</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true" target="_blank">【1400例谎言的背后】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(图文、視頻).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true" target="_blank">【江泽民其人】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jzmqr-pa-5k1-2018.epub?raw=true">(音频全书-实体镶崁-上).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://git.io/toto" target="_blank">【江泽民其人】</a></td>
+<td width=380><a href="https://githubgithub.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true.com/sodore/dsds/blob/master/book/jzmqr-pa-5k2-2018.epub?raw=true">(音频全书-实体镶崁-下).下载</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true" target="_blank">【解体党文化】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/jtdwh-2.0-20180107.epub?raw=true">(图文).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true" target="_blank">【马克思的成魔之路】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">(图文).下载</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true" target="_blank">【百年红祸】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/bnhhv.epub?raw=true">(图文).下载</a></td></tr>
+
+
+</table>
+
+
+<hr>
+
+ 
 
 
 
@@ -189,43 +268,6 @@
 <div align=center>
 <img src="images/hr2.jpg" width=280>
 </div>
-
-<div align="center"><h3>聆聽神韻交響樂團演奏《大汗》之隨想 跟著大汗的戰馬馳騁草原</h3></div>
- <div align="center"><h4>by 王金丁 2017.11.08 </h4></div>
-<div align=center>
-<img src="images/content_556-72-01.jpg" width=680>
-</div>
-<div align="center">（大紀元資料室）</div><br/>
-
-<b>豎琴波浪似的聲音從草原緩緩升起，溫暖如和煦春風，喚醒了遙遠的記憶，等小號寬洪的聲音，從遠處飄來，那記憶已羽翼般飛逝草原盡處。<br/>
-整個《大汗》樂曲中，我都在等待著那遙遠的記憶，那一絲千年的思念。</b>
-
-文 _ 王金丁
-
-當指揮揚起手掌時，弦樂旋即追著木管的聲音向我迎面襲來，急促如萬箭齊發，就是萬箭齊發。正讚嘆音樂高遠的魅力時，那紛至沓來的箭雨已被醇厚的琴聲化為麗日和風；此刻，一排大提琴手正俯身拉弓，溫婉的牧歌輕拂大地，音符飄過遼闊的草原，似微風陣陣吹來，千頃草原翻著碧綠，群群牛羊蹣跚青草深處。於是，綿密的小提琴音符輕快的躍上天空，我彷彿看見孩子們從山坡上一個個翻滾下來，奔向擁擠的羊群。
-
-此刻，大提琴聲音更為低沉，軟軟的鋪上了草原，遠處，天空裡的大火球已慢慢墜落，木管微弱的聲音從近處帳幕旁響起，羊群姍姍步入昏黃的篝火輝光裡，伴著草原進入了夢鄉。
-
-樂音休止半頃後，小喇叭喚醒了一旁的銅管，響聲中大鼓破空而來，鼓聲裡夾著急促的蹄音，還帶著摻糅草原的濃厚汗味，可是大汗的勇猛的戰馬。蹄音疾馳過後，鼓聲跟著消失在廣袤田野裡，銅管已開始了溫柔的鋪陳，滿園紅花綠葉跟著一幕幕出現，這裡是美麗的中原大地。
-
-微風吹拂中原土地，響亮的笛聲裡穿梭著琵琶，音符仿如長長的錦繡從天空鋪來，白色蠶兒也蠕動著柔軟的軀體，奮力爬上了寬廣的桑葉紋路，滴落的露水測試著葉子的重量。田邊樹下，鄉女斯文的紡紗織布，指間的細絲如琵琶的流水聲，輕輕滑過。稻田裡的農夫揮著鋤頭，一群青鳥張開翅膀從頭上划過，在陽光裡追著風聲，飛向遠處的綠水青山。大地傳來了清晰的富有節奏的誦經聲。
-
-各色衣著的男女從城門洞口進進出出，街道上交易繁忙，豎琴聲又波浪似飄來。忽然，那遙遠的千年思念又出現腦際，心中升起一陣雀躍，可豎琴聲漸漸淡去，那千年的思念也消失了，正惋惜時，長笛、琵琶、小提琴合聲響起。我彷彿看見驢車搖晃於天際，駱駝馱著笨重的物品，商人揹著背包跟在隊伍後面趕路，在蘊涵西域音色的熱鬧旋律裡，長長的商隊向西迤邐前行，冽冽風聲呼嘯草原大地。遠方湛藍的天空裡，馬背上的戰士們揚起長鞭，逆著風沙馳騁而去。
-
-慢慢的，熱鬧的音樂消失了，一聲銅管帶來眾聲齊鳴，莊嚴而輝煌，穿著寬袍的大汗在將士、百官、民眾呼擁中，一步步登上大都城樓，音樂也一聲聲磅礡壯盛，大汗執起銀杯，仰天飲盡。大鑼一聲，響徹雲霄，氣勢壯闊軒昂，大汗站在城牆上，伸開兩臂舒展廣袖，如擁天風海雨，然後，從空中向我飛來，激起我心中一陣震撼，至面前時，卻帶來徐徐和風，讓我想起那含著草原的汗味。這時，大汗魁梧的身軀朝向我，嘴裡吐出幾個字：「這一朝演完了，吾歸去矣。」隨著音樂消逝，大汗的廣袖也在風聲裡杳然隱去。
-
-<div align=center>
-<img src="images/content_556-73-01.jpg" width=680>
-</div>
-<div align="center">2017年9月23日晚，神韻交響樂在臺灣嘉義市文化局音樂廳演出。（陳霆／大紀元）</div><br/>
- 
-2017年9月秋天的夜晚，臺灣一個劇院裡，我坐在13排20號位子上，當舞臺上的指揮收回手掌時，我才從《大汗》的樂音裡醒了過來，腦海裡仍然懸著遙遠的記憶，那千年的思念。◇
-
-<p></p>
-
-轉載(新紀元周刊)
-
-
 
 
 
