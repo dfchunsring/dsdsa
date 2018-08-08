@@ -140,12 +140,12 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-08_180212.jpg" width=880>
+<img src="images/2018-08-08_180212.jpg" width=680>
 </div>
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-08_215609.jpg" width=880>
+<img src="images/2018-08-08_215609.jpg" width=280>
 </div>
 <p></p>
 
@@ -180,7 +180,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/go4523.jpg" width=880>
+<img src="images/go4523.jpg" width=680>
 </div>
 <p></p>
 <table>
@@ -214,7 +214,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/dfzh_0319.png" width=880>
+<img src="images/dfzh_0319.png" width=680>
 </div>
 
 
@@ -249,7 +249,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-06-30_214413.jpg" width=380>
+<img src="images/2018-06-30_214413.jpg" width=180>
 </div>
 <div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
 
