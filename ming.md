@@ -9,7 +9,11 @@
 
 <table>
 <tr>
-<td> 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
+<td>
+ <div align=center>
+<img src="images/895556.jpg" width=880>
+</div>
+ 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。<a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">请在此下载( 如何开启epub说明 ). txt</a></p>
  <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
  	</td></tr>
 </table>
@@ -261,16 +265,16 @@
 </table>
 
 
-<hr>
+ <div align=center>
+<img src="images/img3b790.jpg" width=880>
+</div>
 
  
 
 
 
 
-<div align=center>
-<img src="images/hr2.jpg" width=280>
-</div>
+
 
 
 
