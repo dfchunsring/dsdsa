@@ -140,15 +140,15 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-08_214023.jpg" width=680>
+<img src="images/2018-08-08_214023.jpg" width=180>
 </div>
 
 <div align=center>
-<img src="images/2018-08-08_215609.jpg" width=480>
+<img src="images/2018-08-08_215609.jpg" width=380>
 </div>
 
 <div align=center>
-<img src="images/2018-08-08_214036.jpg" width=280>
+<img src="images/2018-08-08_214036.jpg" width=180>
 </div>
 <p></p>
 
