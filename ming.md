@@ -180,43 +180,9 @@
 </table>
 <p></p>
 
-<div align=center>
-<img src="images/go4523.jpg" width=780>
-</div>
-<p></p>
-<table>
- <tr>
-<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true" target="_blank">【 (真相)-控告江泽民】</a></td>
-<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true">(图文).下载(epub)</a></td></tr>
-
- <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载(epub)</a></td></tr>
-
-<tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
-
-<tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true" target="_blank">【1400例谎言的背后】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(图文、視頻).下载(epub)</a></td></tr>
-
-
-<tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
-
-<tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true" target="_blank">【一位律师的肺腑直言】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(图文).下载(epub)</a></td></tr>
-
-
-</table>
-<p></p>
-
 
  <div align=center>
-<img src="images/2018-08-08_175429.jpg" width=680>
+<img src="images/2018-08-08_174503.jpg" width=680>
 </div>
 
 <div align=center>
@@ -253,6 +219,43 @@
 
 </table>
 <p></p>
+
+<div align=center>
+<img src="images/go4523.jpg" width=780>
+</div>
+<p></p>
+<table>
+ <tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true" target="_blank">【 (真相)-控告江泽民】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+ <tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true" target="_blank">【天安门自焚是中共栽赃陷害法轮功的骗局】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/zfzx.epub?raw=true">(图文、視頻).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true" target="_blank">【 “四‧二五”中南海万人上访真相 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/425-20.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true" target="_blank">【1400例谎言的背后】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/1400-pavl.epub?raw=true">(图文、視頻).下载(epub)</a></td></tr>
+
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true" target="_blank">【 让法官傻眼的办证词 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/hgty48.epub?raw=true">  (图文、视频) .下载(epub)</a></td></tr>
+
+<tr>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true" target="_blank">【一位律师的肺腑直言】</a></td>
+<td width=380><a href="https://github.com/sodore/dsds/blob/master/book/lawyer.epub?raw=true">(图文).下载(epub)</a></td></tr>
+
+
+</table>
+<p></p>
+
+
+
 
 <div align=center>
 <img src="images/2018-06-30_214413.jpg" width=200>
