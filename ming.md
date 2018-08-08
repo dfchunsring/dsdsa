@@ -76,8 +76,8 @@
 </table>
 <p></p>
 
-<div align=center>
-<img src="images/img44f82e134495.jpg" width=880>
+ <div align=center>
+<img src="images/895556.jpg" width=880>
 </div>
 
 
@@ -139,17 +139,15 @@
 </table>
 <p></p>
 
-<div align=center>
-<img src="images/2018-08-08_214023.jpg" width=180>
+ <div align=center>
+<img src="images/895556.jpg" width=880>
 </div>
 
 <div align=center>
 <img src="images/2018-08-08_215609.jpg" width=380>
 </div>
 
-<div align=center>
-<img src="images/2018-08-08_214036.jpg" width=180>
-</div>
+
 <p></p>
 
 
@@ -183,7 +181,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/go4523.jpg" width=680>
+<img src="images/go4523.jpg" width=780>
 </div>
 <p></p>
 <table>
@@ -216,8 +214,12 @@
 </table>
 <p></p>
 
+
+ <div align=center>
+<img src="images/895556.jpg" width=880>
+</div>
 <div align=center>
-<img src="images/dfzh_0319.png" width=680>
+<img src="images/dfzh_0319.png" width=380>
 </div>
 
 
@@ -252,9 +254,9 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-06-30_214413.jpg" width=180>
+<img src="images/2018-06-30_214413.jpg" width=200>
 </div>
-<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+
 
 <table>
 <tr>
@@ -293,6 +295,9 @@
 
 </table>
 <p></p>
+
+<div align=center><a href="https://git.io/3f"> 更多epub真相,请在此 https://git.io/3f 下载</a></div></p>
+
  <div align=center>
 <img src="images/aa0807.png" width=880>
 </div>
