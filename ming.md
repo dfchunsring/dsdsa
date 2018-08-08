@@ -282,13 +282,13 @@
 
 
 </table>
-
+<p></p>
  <div align=center>
-<img src="images/aa0807.png" width=580>
+<img src="images/aa0807.png" width=780>
 </div>
-
+<p></p>
  <div align=center>
-<img src="images/img3b790.jpg" width=580>
+<img src="images/img3b790.jpg" width=780>
 </div>
 
  
