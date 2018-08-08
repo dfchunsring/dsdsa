@@ -221,7 +221,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-09_003424.jpg" width=780>
+<img src="images/2018-08-09_003732.jpg" width=580>
 </div>
 
  <div align=center>
