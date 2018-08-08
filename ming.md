@@ -305,9 +305,9 @@
 <p></p>
 
 <div align=center>
- <img src="images/2018-08-07_223448.jpg" width=200></div>
+ <img src="images/2018-08-07_223448.jpg" width=200>
 
- <a href="https://git.io/3f"><h3> 更多epub真相,请在此 https://git.io/3f 下载</a></h3> 
+ <a href="https://git.io/3f"><h3> 更多epub真相,请在此 https://git.io/3f 下载</a></h3> </div>
 
 <p></p>
 
