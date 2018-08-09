@@ -186,7 +186,7 @@
 </div>
 
 <div align=center>
-<img src="images/dfzh_0319.jpg" width=380>
+<img src="images/dfzh_0319.jpg" width=480>
 </div>
 <p></p>
 
