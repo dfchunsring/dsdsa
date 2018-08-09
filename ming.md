@@ -147,8 +147,6 @@
 <div align=center>
 <img src="images/2018-08-08_215609.jpg" width=480>
 </div>
-
-
 <p></p>
 
 
@@ -180,6 +178,19 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/fytdx-2.0-20161012.epub?raw=true">(图文).下载(epub)</a></td></tr>
 </table>
 <p></p>
+
+<table>
+<tr>
+ <td> <h3 align=center><a href="https://git.io/3f">为了生活，我们在世间忙碌，也许不曾留意，在我们的身边正发生着一个又一个不可思议的奇迹：</a> </h3></p> 
+
+<a href="https://git.io/3f">▬ 在人类历史上，从未有任何一种信仰可以在十几年间弘传世界，超越种族与文化，吸引上亿人走入修炼；在中国现代史中，也从未有过一群手无寸铁的民众，能够顶住邪恶政权利用整部国家机器长达19 年的迫害，并得到了全世界正义的声援。</p>
+
+▬ 这一切，将会在历史的长河中留下永恒的见证。这一切，也与我们每一个人息息相关。愿把这些重要的真相传递给您，让真相破除一切迷雾，为您打开美好新纪元的大门。</a> 
+</td>
+</tr>
+</table>
+<p></p>
+
 
 <div align=center>
 <img src="images/img45b385b4aaa1.jpg" width=680>
