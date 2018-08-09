@@ -140,13 +140,14 @@
 <p></p>
 
  
+<div align=center>
+<img src="images/img45b385b4aaa1.jpg" width=680>
+</div>
 
 <div align=center>
-<img src="images/2018-08-08_215609.jpg" width=580>
+<img src="images/2018-08-08_215609.jpg" width=480>
 </div>
-<div align=center>
-<img src="images/2018-08-08_174528.jpg" width=680>
-</div>
+
 
 <p></p>
 
@@ -181,14 +182,13 @@
 <p></p>
 
 <div align=center>
+<img src="images/img45b385b4aaa1.jpg" width=680>
+</div>
+
+<div align=center>
 <img src="images/dfzh_0319.png" width=380>
 </div>
- <div align=center>
-<img src="images/2018-08-08_174528.jpg" width=680>
-</div>
-
-
-
+<p></p>
 
 
 <table>
