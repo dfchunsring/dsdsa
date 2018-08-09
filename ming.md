@@ -20,8 +20,8 @@
 </div>
 
  <div align=center>手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。</div></p>
- <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">● 请在此下载( 如何开启epub说明 ). txt</a></div></p>
- <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> ● 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">■ 请在此下载( 如何开启epub说明 ). txt</a></div></p>
+ <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> ■ 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
  	</td></tr>
 </table>
 
@@ -72,7 +72,7 @@
 <tr>
  <td> <h3 align=center><a href="https://git.io/3f">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！ ◆</a> </h3></p> 
 
-<a href="https://git.io/3f">● 一场惨绝人寰的劫难降临在中国大陆。人渣败类江泽民与中共相互利用，发动了一场灭绝人性的迫害法轮功运动，在中共江泽民流氓集团“名誉上搞臭、经济上截断、肉体上消灭”、“打死白打死，打死算自杀”和“不查身源，直接火化”的灭绝政策下，上亿法轮功学员被污蔑，数百万学员被绑架、关押、劳教、判刑，甚至被酷刑致死或活摘器官致死，数百万家庭被迫害得支离破碎、妻离子散、家破人亡！法轮功学员及他们的家人、亲朋好友笼罩在一片红色恐怖之中……</a> 
+<a href="https://git.io/3f">■ 一场惨绝人寰的劫难降临在中国大陆。人渣败类江泽民与中共相互利用，发动了一场灭绝人性的迫害法轮功运动，在中共江泽民流氓集团“名誉上搞臭、经济上截断、肉体上消灭”、“打死白打死，打死算自杀”和“不查身源，直接火化”的灭绝政策下，上亿法轮功学员被污蔑，数百万学员被绑架、关押、劳教、判刑，甚至被酷刑致死或活摘器官致死，数百万家庭被迫害得支离破碎、妻离子散、家破人亡！法轮功学员及他们的家人、亲朋好友笼罩在一片红色恐怖之中……</a> 
 </td>
 </tr>
 </table>
@@ -185,7 +185,7 @@
 <tr>
  <td><h4 align=center><a href="https://git.io/3f">◆ 为了生活，我们在世间忙碌，也许不曾留意，在我们的身边正发生着一个又一个不可思议的奇迹： ◆</a> </h4></p> 
 
-<a href="https://git.io/3f">● 在人类历史上，从未有任何一种信仰可以在十几年间弘传世界，超越种族与文化，吸引上亿人走入修炼；在中国现代史中，也从未有过一群手无寸铁的民众，能够顶住邪恶政权利用整部国家机器长达19 年的迫害，并得到了全世界正义的声援。这一切，将会在历史的长河中留下永恒的见证。这一切，也与我们每一个人息息相关。愿把这些重要的真相传递给您，让真相破除一切迷雾，为您打开美好新纪元的大门。</a> 
+<a href="https://git.io/3f">■ 在人类历史上，从未有任何一种信仰可以在十几年间弘传世界，超越种族与文化，吸引上亿人走入修炼；在中国现代史中，也从未有过一群手无寸铁的民众，能够顶住邪恶政权利用整部国家机器长达19 年的迫害，并得到了全世界正义的声援。这一切，将会在历史的长河中留下永恒的见证。这一切，也与我们每一个人息息相关。愿把这些重要的真相传递给您，让真相破除一切迷雾，为您打开美好新纪元的大门。</a> 
 </td>
 </tr>
 </table>
@@ -332,7 +332,7 @@
 <div align=center>
  <img src="images/2018-08-07_223448.jpg" width=200>
 
- <h3> <a href="https://git.io/3f">● 更多epub真相,请在此 https://git.io/3f 下载 ●</a></h3> </div>
+ <h3> <a href="https://git.io/3f">◆ 更多epub真相,请在此 https://git.io/3f 下载 ◆</a></h3> </div>
 
 <p></p>
 
