@@ -221,13 +221,12 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-09_004050.jpg" width=580>
-</div>
-
- <div align=center>
-<img src="images/2018-08-08_174528.jpg" width=680>
+<img src="images/go4523.jpg" width=580>
 </div>
 <p></p>
+
+
+
 <table>
  <tr>
 <td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/dejlk.epub?raw=true" target="_blank">【 (真相)-控告江泽民】</a></td>
