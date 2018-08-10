@@ -27,6 +27,9 @@
 
 <p></p>
 
+<div align=center>
+<img src="images/img45b385b4aaa1.jpg" width=480>
+</div>
 <h2 align=center><a href="https://git.io/tr">◆ 活摘器官罪行 慘烈度超納粹 ◆</a> </h2><b/>
 <div align=center>
 <img src="images/2018-07-16_173435.jpg" width=480>
@@ -79,7 +82,7 @@
 <p></p>
 
  <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=680>
+<img src="images/img45b385b4aaa1.jpg" width=480>
 </div>
 
 
@@ -141,7 +144,7 @@
 
 <table>
 <tr>
-
+<td>
   <a href="https://git.io/3f">
 ■ 在人类历史的长河中，生命历经辗转轮回，封尘已久。生命在俗世的迷蒙中或许已忘却来时的誓愿，在凡世的喧嚣中，您也许曾想过：人为什么来在世上？将来又去往何方？</p>
 ■ 忙忙碌碌中，岁月匆匆而过，历史上许多先贤圣人给后世留下了许多预言，这些预言以惊人的准确性，一代一代地流传下来，令人向往，被人称奇。他们以隐讳的诗句或绘画，给后人留下了珍贵的启示。当这些预言齐指今天时，它们都有一个共同特征——无一例外地把目光聚焦法轮大法。</p>
@@ -154,7 +157,7 @@
 <p></p>
  
 <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=680>
+<img src="images/img45b385b4aaa1.jpg" width=480>
 </div>
 
 <div align=center>
@@ -204,7 +207,7 @@
 
 
 <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=680>
+<img src="images/img45b385b4aaa1.jpg" width=480>
 </div>
 
 <div align=center>
