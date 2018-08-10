@@ -19,7 +19,7 @@
 <img src="images/895556.jpg" width=880>
 </div>
 
- <div align=center>手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。</div></p>
+ <div align=center>■ 手机版ePub电子书，推荐使用 Reasily - EPUB 阅读器，可以观看视频、音频、图文。</div></p>
  <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/open-epub.txt?raw=true">■ 请在此下载( 如何开启epub说明 ). txt</a></div></p>
  <div align=center><a href="https://github.com/sodore/dsds/blob/master/book/Reasily-epub-1802h.apk?raw=true"> ■ 请在此点击直接下载Reasily-EPUB 阅读器</a></div></p>
  	</td></tr>
@@ -28,7 +28,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=480>
+<img src="images/img45b385b4aaa1.jpg" width=580>
 </div>
 <h2 align=center><a href="https://git.io/tr">◆ 活摘器官罪行 慘烈度超納粹 ◆</a> </h2><b/>
 <div align=center>
@@ -82,7 +82,7 @@
 <p></p>
 
  <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=480>
+<img src="images/img45b385b4aaa1.jpg" width=580>
 </div>
 
 
@@ -157,7 +157,7 @@
 <p></p>
  
 <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=480>
+<img src="images/img45b385b4aaa1.jpg" width=580>
 </div>
 
 <div align=center>
@@ -207,7 +207,7 @@
 
 
 <div align=center>
-<img src="images/img45b385b4aaa1.jpg" width=480>
+<img src="images/img45b385b4aaa1.jpg" width=580>
 </div>
 
 <div align=center>
@@ -260,7 +260,7 @@
 <p></p>
 
 <div align=center>
-<img src="images/2018-08-08_174730.jpg" width=680>
+<img src="images/2018-08-08_174730.jpg" width=580>
 </div>
 
 <div align=center>
