@@ -871,9 +871,7 @@
 <table>
 <tr>
 <td><h2 align=center><a href="https://">抓紧时间 了解真相 脱离中共 神保平安</a></h2>
-<div align=center>
-<img src="images/2018-08-10_152418.jpg" width=580>
-</div>
+
 【明慧网】有句话说：危险并不可怕，可怕的是，当巨大的险情来临时却不知道，这才是最让人痛惜的。</p>
 当今的中国，正面临着巨大的险情。</p>
 
@@ -1088,14 +1086,15 @@
 
 撰稿：林宇 剪辑：明玉
 
-
-
-
 <hr>
+
+
+
+</p>
 <div align=center>
 <img src="images/img3b7901e1.jpg" width=880>
 </div>
-
+</p>
 
 
 
