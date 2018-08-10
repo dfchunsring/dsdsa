@@ -76,7 +76,8 @@
 <div align=center>
 <img src="images/2013-6-5-zifen-2.jpg" width=580>
 </div>
- <div align=center>▲ 警察晃着灭火毯等镜头，棉衣裤子烧烂，头发还完好，火烧后盛着汽油的塑料瓶完好翠绿。央视女记者承认自焚“摆拍”。</div>
+ <div align=center>▲ 警察晃着灭火毯等镜头，“自焚者”王进东两腿间盛着汽油的雪碧瓶，在火焰中竟然完好翠绿无损；头发最容易被火燎，但是画面中王进东棉衣裤子烧烂，头发还完好。（视频截图）</div>
+		
 <p></p>
  
  <div align=center>
