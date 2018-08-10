@@ -328,7 +328,7 @@
 
 
 <div align=center>
-<img src="images/2018-06-30_214413.jpg" width=200>
+<img src="images/4589.jpg" width=200>
 </div>
 
 <p></p>
