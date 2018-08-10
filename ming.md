@@ -328,7 +328,7 @@
 
 
 <div align=center>
-<img src="images/4589.png" width=680>
+<img src="images/4589.png" width=880>
 </div>
 
 <p></p>
