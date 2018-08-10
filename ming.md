@@ -142,7 +142,7 @@
 <table>
 <tr>
  <td><div align=center>
-<img src="images/2018-08-08_214534.jpg" width=480>
+<img src="images/2018-08-08_214534.jpg" width=300>
 </div>
   <a href="https://git.io/3f">
 ■ 在人类历史的长河中，生命历经辗转轮回，封尘已久。生命在俗世的迷蒙中或许已忘却来时的誓愿，在凡世的喧嚣中，您也许曾想过：人为什么来在世上？将来又去往何方？</p>
