@@ -259,12 +259,10 @@
 </table>
 <p></p>
 
-<div align=center>
-<img src="images/2018-08-08_174730.jpg" width=580>
-</div>
+
 
 <div align=center>
-<img src="images/go45231.jpg" width=580>
+<img src="images/142.png" width=880>
 </div>
 <p></p>
 
@@ -328,7 +326,7 @@
 
 
 <div align=center>
-<img src="images/4589.png" width=880>
+<img src="images/332.png" width=880>
 </div>
 
 <p></p>
