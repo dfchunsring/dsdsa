@@ -443,7 +443,7 @@
 <table>
 <tr>
 <td><div align=center>
-<img src="images/2018-08-08_175429.jpg" width=880>
+<img src="images/2018-08-08_175429.jpg" width=580>
 </div>
  
  <h2 align=center><a href="https://">◆ 退党、退团、退队（三退）方法 </a></h2>
