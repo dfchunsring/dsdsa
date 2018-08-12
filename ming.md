@@ -469,7 +469,7 @@
 <p></p>
  
  <div align=center>
-<img src="images/2018-02-06_223509-1.jpg" width=880>
+<img src="images/2018-02-06_223509-1.jpg" width=480>
 </div>
 
 
