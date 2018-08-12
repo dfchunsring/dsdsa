@@ -389,7 +389,7 @@
 <p></p>
 
 <div align=center>
- <img src="images/2018-08-07_223448.jpg" width=200>
+ <img src="images/E0515.jpg" width=450>
 
 <p></p>
 
