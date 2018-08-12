@@ -200,13 +200,13 @@
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/kks-ed.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/epub/2018-The_daily_truth_1.epub?raw=true" target="_blank">【 小之告诉你真相(1) 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/epub/2018-The_daily_truth_1.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/2018-The_daily_truth_1.epub?raw=true" target="_blank">【 小之告诉你真相(1) 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/2018-The_daily_truth_1.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
 
 
 <tr>
-<td width=500><a href="https://github.com/sodore/dsds/blob/master/epub/2018-The_daily_truth_2.epub?raw=true" target="_blank">【 小之告诉你真相(2) 】</a></td>
-<td width=380><a href="https://github.com/sodore/dsds/blob/master/epub/2018-The_daily_truth_2.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
+<td width=500><a href="https://github.com/sodore/dsdsa/blob/master/epub/2018-The_daily_truth_2.epub?raw=true" target="_blank">【 小之告诉你真相(2) 】</a></td>
+<td width=380><a href="https://github.com/sodore/dsdsa/blob/master/epub/2018-The_daily_truth_2.epub?raw=true">(图文、音频).下载(epub)</a></td></tr>
 
 
 <tr>
