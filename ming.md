@@ -282,7 +282,7 @@
 
 
 <div align=center>
-<img src="images/142.png" width=880>
+<img src="images/142.png" width=580>
 </div>
 <p></p>
 
@@ -346,7 +346,7 @@
 
 
 <div align=center>
-<img src="images/332.png" width=880>
+<img src="images/332.png" width=580>
 </div>
 
 <p></p>
