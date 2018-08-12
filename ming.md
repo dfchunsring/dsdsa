@@ -279,10 +279,12 @@
 </table>
 <p></p>
 
-
+<div align=center>
+<img src="images/img45b385b4aaa1.jpg" width=580>
+</div>
 
 <div align=center>
-<img src="images/142.png" width=580>
+<img src="images/142.png" width=480>
 </div>
 <p></p>
 
@@ -343,10 +345,12 @@
 <p></p>
 
 
-
+<div align=center>
+<img src="images/img45b385b4aaa1.jpg" width=580>
+</div>
 
 <div align=center>
-<img src="images/332.png" width=580>
+<img src="images/332.png" width=480>
 </div>
 
 <p></p>
