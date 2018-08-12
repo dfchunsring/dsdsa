@@ -392,6 +392,7 @@
 </table>
 <p></p>
 
+<hr>
 <div align=center>
  <img src="images/E0515.jpg" width=450>
 
